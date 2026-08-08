@@ -4,6 +4,16 @@
 
 站点入口与 Obsidian 首页一致：[`content/index.md`](content/index.md)
 
+## 三端入口
+
+| 用途 | 链接 |
+|------|------|
+| 在线阅读 | https://zhaojinting2020.github.io/kb-quant-finance/ |
+| 源码仓库 | https://github.com/zhaojinting2020/kb-quant-finance |
+| 飞书路径原稿 | https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg |
+
+写作：飞书改正文 → Cursor 拉取 → Obsidian 审链 → 推 GitHub → Pages。
+
 ## 从这里开始
 
 1. [量化交易之路](content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md) — 学习路径总览

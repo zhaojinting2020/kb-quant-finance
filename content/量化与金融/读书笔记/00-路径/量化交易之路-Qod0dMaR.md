@@ -1,6 +1,8 @@
 ---
 title: 量化交易之路
 url: https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg
+site: https://zhaojinting2020.github.io/kb-quant-finance/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR
+github: https://github.com/zhaojinting2020/kb-quant-finance/blob/main/content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md
 quality: raw
 attachments:
 - file: attachments/Qod0dMaRSoht42xl4jMcUV6jnqg/file_001.pdf
@@ -13,6 +15,9 @@ wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
 ---
 
 # 量化交易入门
+
+> 三端： [在线阅读](https://zhaojinting2020.github.io/kb-quant-finance/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR) · [源码](https://github.com/zhaojinting2020/kb-quant-finance/blob/main/content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md) · [飞书原稿](https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg)  
+> 正文以飞书为准；改完后用 Cursor 拉取再推 GitHub，站点会自动更新。
 
 [[学习笔记 - 清华大学《量化交易》- QWvgdchv|清华大学《量化交易》学习笔记]]
 

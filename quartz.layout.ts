@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/zhaojinting2020/kb-quant-finance",
+      飞书路径: "https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg",
       Quartz: "https://quartz.jzhao.xyz/",
     },
   }),

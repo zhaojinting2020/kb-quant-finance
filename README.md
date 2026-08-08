@@ -2,11 +2,26 @@
 
 个人量化金融学习路径与读书笔记（Obsidian vault + [Quartz](https://quartz.jzhao.xyz) 站点）。
 
-在线阅读：https://zhaojinting2020.github.io/kb-quant-finance/
+| 用途 | 链接 |
+|------|------|
+| 在线阅读 | https://zhaojinting2020.github.io/kb-quant-finance/ |
+| 源码仓库 | https://github.com/zhaojinting2020/kb-quant-finance |
+| 飞书路径原稿 | https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg |
 
 适合想从「金融基础 → 数学 → Python → 回测实战」串起来的自学者。内容以 Markdown 为主，附件走 Git LFS。
 
 > 这是学习笔记，不是投资建议。策略示例仅用于理解方法，不构成实盘推荐。
+
+## 写作与发布（飞书为主）
+
+日常路径：
+
+1. 在飞书写 / 改（路径总览与读书笔记正文的真相源）
+2. Cursor 打开本仓，拉取对应飞书文档到 `content/`（保留 frontmatter 的 `url` / token）
+3. Obsidian 打开 `content/`：修 wikilink、核对编号目录与附件，少改飞书正文（否则下次拉取会覆盖）
+4. `git push` → GitHub Actions 部署 Pages
+
+分享给别人默认丢「在线阅读」链接；要一起改大纲再丢飞书。
 
 ## 快速开始
 
