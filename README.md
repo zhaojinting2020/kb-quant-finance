@@ -5,7 +5,7 @@
 | 用途 | 链接 |
 |------|------|
 | 源码仓库 | https://github.com/zhaojinting2020/kb-quant-finance |
-| 飞书路径原稿 | https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg |
+| 飞书云文档版本 | https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg |
 
 路线为：金融基础 → 数学 → 编程 → 回测实战。内容以 Markdown 为主，附件走 Git LFS。
 
