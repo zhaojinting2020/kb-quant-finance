@@ -1,8 +1,6 @@
 # 量化学习笔记
 
-量化与金融学习笔记（从 bookmarks-kb 拆出）
-
-拆分自私有知识库 [bookmarks-kb](https://github.com/zhaojinting2020/bookmarks-kb)。
+量化与学习笔记
 
 ## 怎么用
 
@@ -19,10 +17,6 @@
 | `index/` | MOC |
 | `Home.md` | 入口 |
 
-## 与总仓关系
-
-- 流水线脚本（书签 crawl、飞书 pull、PDF import）仍在 `bookmarks-kb`
-- 本仓面向阅读与专题整理；附件未全量同步时，可对照总仓或百度网盘 `attachments/`
 
 ## 大文件
 
