@@ -1,21 +1,20 @@
 ---
 title: 量化学习笔记
-description: 个人量化金融学习路径与读书笔记（Obsidian + Quartz）
+description: 个人量化金融学习路径与读书笔记（Obsidian vault）
 ---
 
 # 量化学习笔记
 
 个人量化金融学习库。建议从路径总览开始，再按编号目录下钻。
 
-## 三端入口
+## 入口
 
 | 用途 | 链接 |
 |------|------|
-| 在线阅读 | https://zhaojinting2020.github.io/kb-quant-finance/ |
 | 源码仓库 | https://github.com/zhaojinting2020/kb-quant-finance |
 | 飞书路径原稿 | https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg |
 
-写作习惯：飞书改正文 → Cursor 拉取到本仓 → Obsidian 审链 → 推 GitHub → Pages 自动更新。分享默认用在线阅读链接。
+写作：飞书改正文 → Cursor 拉取到本仓 → Obsidian 审链 → 推 GitHub。
 
 ## 从这里开始
 

@@ -2,23 +2,21 @@
 
 个人量化金融学习库。建议从路径总览开始，再按编号目录下钻。
 
-站点入口与 Obsidian 首页一致：[`content/index.md`](content/index.md)
+Obsidian 首页：[`content/index.md`](content/index.md)
 
-## 三端入口
+## 入口
 
 | 用途 | 链接 |
 |------|------|
-| 在线阅读 | https://zhaojinting2020.github.io/kb-quant-finance/ |
 | 源码仓库 | https://github.com/zhaojinting2020/kb-quant-finance |
 | 飞书路径原稿 | https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg |
 
-写作：飞书改正文 → Cursor 拉取 → Obsidian 审链 → 推 GitHub → Pages。
+写作：飞书改正文 → Cursor 拉取 → Obsidian 审链 → 推 GitHub。
 
 ## 从这里开始
 
 1. [量化交易之路](content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md) — 学习路径总览
 2. [主题导航 MOC](content/00-导航/MOC-quant-finance.md) — 书签与笔记索引
-3. [在线阅读（GitHub Pages）](https://zhaojinting2020.github.io/kb-quant-finance/)
 
 ## 读书笔记（编号目录）
 
@@ -35,7 +33,6 @@
 ## 使用方式
 
 - Obsidian：打开本仓库的 `content/` 目录作为 vault（推荐）
-- 也可打开仓库根目录；根目录 `attachments` 为指向 `content/attachments` 的符号链接
 - 附件需本机已安装 Git LFS
 
 > 学习笔记，不构成投资建议。
