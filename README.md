@@ -1,24 +1,20 @@
 # 量化学习笔记
 
-个人量化金融学习路径与读书笔记（Obsidian vault）。
+个人量化学习路径与笔记（Obsidian vault）。
 
 | 用途 | 链接 |
 |------|------|
 | 源码仓库 | https://github.com/zhaojinting2020/kb-quant-finance |
 | 飞书路径原稿 | https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg |
 
-适合想从「金融基础 → 数学 → Python → 回测实战」串起来的自学者。内容以 Markdown 为主，附件走 Git LFS。
+路线为：金融基础 → 数学 → 编程 → 回测实战。内容以 Markdown 为主，附件走 Git LFS。
 
 > 这是学习笔记，不是投资建议。策略示例仅用于理解方法，不构成实盘推荐。
 
-## 写作与同步（飞书为主）
+## 更新与同步
 
-1. 在飞书写 / 改（正文真相源）
-2. Cursor 打开本仓，拉取对应飞书文档到 `content/`
-3. Obsidian 打开 `content/`：修 wikilink、核对编号目录与附件
-4. `git push` 到 GitHub
-
-分享协作改大纲用飞书；需要版本与附件时用本仓库。
+1. 更新以飞书为主
+2. 不定时同步到github
 
 ## 快速开始
 
@@ -30,7 +26,7 @@ cd kb-quant-finance
 
 用 Obsidian 打开 `content/` 作为 vault，从 [`content/index.md`](content/index.md) 进入。
 
-## 学习路径（建议顺序）
+## 学习路径
 
 入口总览：[`量化交易之路`](content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md)
 
