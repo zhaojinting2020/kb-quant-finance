@@ -13,6 +13,8 @@ attachments:
     title: Market regime detection.ipynb
   - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Market regime detection-with-outputs.ipynb
     title: Market regime detection-with-outputs.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/MarketRegimeDetectionUsingStatisticalAndMLBasedApproaches/README.md
+    title: MarketRegimeDetectionUsingStatisticalAndMLBasedApproaches
   - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/How to Form a Good Cointegrating (and Mean-Reverting) Pair of Stocks.ipynb
     title: How to Form a Good Cointegrating (and Mean-Reverting) Pair of Stocks.ipynb
   - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Testing the Cointegration versus Correlation Properties between KO and PEP.ipynb
@@ -894,7 +896,7 @@ def momentum_trade(context):
 
 [[Market regime detection-with-outputs.ipynb]]
 
-</p><p>GitHub链接： Market regime detection using Statistical and ML based approaches</p></blockquote>
+</p><p>原文与本地副本：Market regime detection using Statistical and ML based approaches（[[attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/MarketRegimeDetectionUsingStatisticalAndMLBasedApproaches/README.md|MarketRegimeDetectionUsingStatisticalAndMLBasedApproaches]]）</p></blockquote>
 
 #### 平稳性 (Stationarity) 与 协整 (Cointegration)
 
