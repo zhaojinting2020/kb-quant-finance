@@ -7,6 +7,7 @@ import_mode: A
 attachments:
 - file: attachments/imported/quant-books/root-90babe8dc399/algorithmic_trading_winning_strategies_and_their_rationale.pdf
   title: algorithmic_trading_winning_strategies_and_their_rationale.pdf
+custom-width: 85
 ---
 
 # Algorithmic Trading — Winning Strategies and Their Rationale

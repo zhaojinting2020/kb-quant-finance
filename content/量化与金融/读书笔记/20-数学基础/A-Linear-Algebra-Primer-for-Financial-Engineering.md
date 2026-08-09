@@ -9,6 +9,7 @@ attachments:
 - file: attachments/imported/quant-books/root-8cff746b5806/A Linear Algebra Primer
     for Financial Engineering.pdf
   title: A Linear Algebra Primer for Financial Engineering.pdf
+custom-width: 85
 ---
 
 # A Linear Algebra Primer for Financial Engineering

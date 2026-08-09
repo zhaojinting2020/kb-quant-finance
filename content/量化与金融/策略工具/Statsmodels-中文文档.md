@@ -6,6 +6,7 @@ fetched_at: '2026-06-27T19:17:47+00:00'
 polished_at: '2026-06-27T19:53:10+00:00'
 github_readme_repaired_at: '2026-06-27T20:19:08+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 # Statsmodels 中文文档

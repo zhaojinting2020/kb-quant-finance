@@ -6,6 +6,7 @@ fetched_at: '2026-06-27T19:17:41+00:00'
 polished_at: '2026-06-27T19:53:10+00:00'
 math_repaired_at: '2026-06-27T20:24:24+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 # Quantreo 量化交易博客

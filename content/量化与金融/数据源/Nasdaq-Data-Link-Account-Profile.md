@@ -6,6 +6,7 @@ fetched_at: '2026-06-27T19:09:37+00:00'
 polished_at: '2026-06-27T18:51:40+00:00'
 math_repaired_at: '2026-06-27T20:24:24+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 # Nasdaq Data Link Account Profile

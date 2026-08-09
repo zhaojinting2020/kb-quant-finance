@@ -4,13 +4,14 @@ url: https://my.feishu.cn/docx/Qod0dMaRSoht42xl4jMcUV6jnqg
 github: https://github.com/zhaojinting2020/kb-quant-finance/blob/main/content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md
 quality: raw
 attachments:
-- file: attachments/Qod0dMaRSoht42xl4jMcUV6jnqg/file_001.pdf
-  title: file_001.pdf
+- file: attachments/量化交易之路-Qod0dMaRSoht42xl4jMcUV6jnqg/量化交易之路.pdf
+  title: 量化必备-线代基础.pdf
 fetch_source: feishu:cli
 fetched_at: '2026-06-27T20:55:47+00:00'
 feishu_formatted_at: '2026-06-28T09:37:58+00:00'
 wikilinks_repaired_at: '2026-06-28T04:42:59+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 # 量化交易入门
@@ -68,7 +69,7 @@ wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
 
 [Python数据分析-尚硅谷 （网课自己看，这个不写笔记了）](https://www.atguigu.com/video/339/)
 
-[file_001.pdf](attachments/Qod0dMaRSoht42xl4jMcUV6jnqg/file_001.pdf)
+[[量化交易之路.pdf]]
 
 ### Python 金融数据分析
 

@@ -3,36 +3,37 @@ title: 《量化交易：如何建立自己的算法交易事业》学习笔记
 url: https://my.feishu.cn/docx/FUANdgmFMo3KBlx7W4acZiHyntc
 quality: raw
 attachments:
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_002.ipynb
-  title: file_002.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_004.ipynb
-  title: file_004.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_010.ipynb
-  title: file_010.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_011.ipynb
-  title: file_011.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_012.ipynb
-  title: file_012.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_013.ipynb
-  title: file_013.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_014.ipynb
-  title: file_014.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_015.ipynb
-  title: file_015.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_016.ipynb
-  title: file_016.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_017.ipynb
-  title: file_017.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_018.ipynb
-  title: file_018.ipynb
-- file: attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_019.ipynb
-  title: file_019.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Lookahead-bias-akshare-demo.ipynb
+    title: Lookahead-bias-akshare-demo.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/GLD–GDX 配对交易.ipynb
+    title: GLD–GDX 配对交易.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Calculating the Optimal Allocation Using Kelly Formula.ipynb
+    title: Calculating the Optimal Allocation Using Kelly Formula.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Market regime detection.ipynb
+    title: Market regime detection.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Market regime detection-with-outputs.ipynb
+    title: Market regime detection-with-outputs.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/How to Form a Good Cointegrating (and Mean-Reverting) Pair of Stocks.ipynb
+    title: How to Form a Good Cointegrating (and Mean-Reverting) Pair of Stocks.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Testing the Cointegration versus Correlation Properties between KO and PEP.ipynb
+    title: Testing the Cointegration versus Correlation Properties between KO and PEP.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Fama-French 模型.ipynb
+    title: Fama-French 模型.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Principal Component Analysis factor trading demo.ipynb
+    title: Principal Component Analysis factor trading demo.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Example_7_5_half_life.ipynb
+    title: Example_7_5_half_life.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Backtesting the January Effect.ipynb
+    title: Backtesting the January Effect.ipynb
+  - file: attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Backtest a year on year seasonal trending strategie.ipynb
+    title: Backtest a year on year seasonal trending strategie.ipynb
 fetch_source: feishu:cli
-fetched_at: '2026-06-28T05:09:51+00:00'
-feishu_formatted_at: '2026-06-28T09:37:58+00:00'
-urls_repaired_at: '2026-06-28T05:09:51+00:00'
-wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
-sheets_expanded_at: '2026-06-29T10:26:06+00:00'
+fetched_at: 2026-06-28T05:09:51+00:00
+feishu_formatted_at: 2026-06-28T09:37:58+00:00
+urls_repaired_at: 2026-06-28T05:09:51+00:00
+wikilinks_unbulleted_at: 2026-06-28T05:48:29+00:00
+sheets_expanded_at: 2026-06-29T10:26:06+00:00
+custom-width: 85
 ---
 
 # 量化交易的内容, 参与者与原因
@@ -201,7 +202,7 @@ Sharpe 比率的关键注意点：
 
 <blockquote><p>使用简单配对交易展示look ahead bias的危害</p><p>
 
-[file_002.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_002.ipynb)
+[[Lookahead-bias-akshare-demo.ipynb]]
 
 </p></blockquote>
 
@@ -217,7 +218,7 @@ Sharpe 比率的关键注意点：
 
 </p><p>Pair Trading of GLD and GDX：
 
-[file_004.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_004.ipynb)
+[[GLD–GDX 配对交易.ipynb]]
 
 </p></blockquote>
 
@@ -336,8 +337,7 @@ Sharpe 比率的关键注意点：
 from jqdata import *
 import numpy as np
 
-```
-## 初始化：设置交易参数, 基准和运行时间
+# 初始化：设置交易参数, 基准和运行时间
 def initialize(context):
     # 设定基准
 
@@ -346,8 +346,8 @@ def initialize(context):
 
     set_option('use_real_price', True)
     # 设定佣金：模拟交易通常设定为万分之三
-    $set_order_cost(OrderCost(close_tax=0.001, open_commission=0.0003, $
-                             $close_commission=0.0003, min_commission=5), type='stock')$
+    set_order_cost(OrderCost(close_tax=0.001, open_commission=0.0003, 
+                             close_commission=0.0003, min_commission=5), type='stock')
     
     # 定义股票池（此处仅为示例）
 
@@ -357,12 +357,12 @@ def initialize(context):
     # run_weekly 表示每周一开盘时执行调仓逻辑
     run_weekly(my_rebalance, weekday=1, time='9:30')
 
-## 调仓逻辑：四次方根市值加权
+# 调仓逻辑：四次方根市值加权
 def my_rebalance(context):
     # 获取当前股票池中所有股票的市值
     # market_cap 是总市值，单位是亿元
-    $q = query(valuation.code, valuation.market_cap).filter(valuation.code.in_(g.stocks))$
-    $df = get_fundamentals(q)$
+    q = query(valuation.code, valuation.market_cap).filter(valuation.code.in_(g.stocks))
+    df = get_fundamentals(q)
     
     if df.empty:
         log.warn("无法获取市值数据")
@@ -371,28 +371,29 @@ def my_rebalance(context):
     # 计算四次方根权重
 
     df['raw_weight'] = df['market_cap'].apply(lambda x: x**0.25)
-    $total_raw_weight = df['raw_weight'].sum()$
+    total_raw_weight = df['raw_weight'].sum()
     df['target_weight'] = df['raw_weight'] / total_raw_weight
     
     # 转换为字典方便查询：{代码: 权重}
-    $weight_dict = dict(zip(df['code'], df['target_weight']))$
+    weight_dict = dict(zip(df['code'], df['target_weight']))
     
     # 获取账户当前总资产（模拟盘实时净值）
     # 预留 2% 现金以防滑点导致买入失败（模拟交易中很常见）
-    $total_value = context.portfolio.total_value * 0.98$
+    total_value = context.portfolio.total_value * 0.98
     
     # 3. 执行订单
     for stock in g.stocks:
         if stock in weight_dict:
 
-            $target_val = total_value * weight_dict[stock]$
+            target_val = total_value * weight_dict[stock]
             # 聚宽模拟交易核心函数：将仓位调整至目标价值
             order_target_value(stock, target_val)
             log.info(f"模拟交易下单：{stock}，目标价值：{target_val:.2f}元")
 
-## 每日运行（可选）：记录每日盈亏
+# 每日运行（可选）：记录每日盈亏
 def after_trading_end(context):
     log.info(f"当日交易结束，账户当前净值：{context.portfolio.total_value}")
+```
 
 #### 为什么实际表现会与预期产生偏差？
 
@@ -577,7 +578,7 @@ $$S = \sqrt{F^T C F} = \sqrt{V_p}$$
 
 <blockquote><p>Example 6.3: Calculating the Optimal Allocation Using Kelly Formula</p><p>
 
-[file_010.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_010.ipynb)
+[[Calculating the Optimal Allocation Using Kelly Formula.ipynb]]
 
 </p></blockquote>
 
@@ -694,8 +695,7 @@ def initialize(context):
     set_benchmark('000300.XSHG')
     set_option('use_real_price', True)
     set_order_cost(OrderCost(close_tax=0.001, open_commission=0.0003, close_commission=0.0003, min_commission=5), type='stock')
-    
-```
+
     # 策略全局变量
     g.index = '000300.XSHG'
 
@@ -709,12 +709,12 @@ def initialize(context):
 def trade_logic(context):
     # 1. 获取当前沪深300成份股
 
-    $stocks = get_index_stocks(g.index)$
+    stocks = get_index_stocks(g.index)
     
     # 2. 筛选候选股 (符合均值回归条件的)
-    $candidates = []$
+    candidates = []
 
-    $current_data = get_current_data()$
+    current_data = get_current_data()
     
     for stock in stocks:
         # 排除停牌, 退市, 或刚上市不满一年的
@@ -724,42 +724,42 @@ def trade_logic(context):
             
         # 获取历史数据
 
-        $hist = attribute_history(stock, g.window + 1, '1d', ['close'], df=True)$
+        hist = attribute_history(stock, g.window + 1, '1d', ['close'], df=True)
         if len(hist) < g.window: continue
         
         # 方案C：数据清洗（剔除真正的极端脏数据）
-        $daily_change = hist['close'].pct_change().dropna()$
+        daily_change = hist['close'].pct_change().dropna()
         if any(daily_change.abs() > g.outlier_limit): continue
         
         # 计算指标
 
-        $ma = hist['close'].mean()$
-        $std = hist['close'].std()$
+        ma = hist['close'].mean()
+        std = hist['close'].std()
         
         # 方案B：环境切换逻辑
         # 计算均线斜率：如果均线向上（牛市），稍微提高买入线（ma - 1.2*std）
         # 如果均线向下（熊市），严格执行超跌买入（ma - 1.5*std）
-        $slope = (ma - hist['close'].iloc[0]) / hist['close'].iloc[0]$
-        $dynamic_std = g.std_dev if slope < 0 else (g.std_dev - 0.3)$
+        slope = (ma - hist['close'].iloc[0]) / hist['close'].iloc[0]
+        dynamic_std = g.std_dev if slope < 0 else (g.std_dev - 0.3)
         
-        $lower = ma - dynamic_std * std$
-        $current_price = current_data[stock].last_price$
+        lower = ma - dynamic_std * std
+        current_price = current_data[stock].last_price
         
         # 记录符合买入条件的股票及其偏离程度
 
         if current_price < lower:
             # 计算偏离均线的比例，作为选股排序依据
-            $deviation = (ma - current_price) / ma$
+            deviation = (ma - current_price) / ma
             candidates.append({'code': stock, 'dev': deviation, 'ma': ma})
 
     # 3. 卖出逻辑 (回归均入即卖)
 
     for stock in list(context.portfolio.positions.keys()):
-        $price = current_data[stock].last_price$
+        price = current_data[stock].last_price
         # 获取该股对应的均线 (简单处理取今日ma)
 
-        $hist_s = attribute_history(stock, g.window, '1d', ['close'])$
-        $curr_ma = hist_s['close'].mean()$
+        hist_s = attribute_history(stock, g.window, '1d', ['close'])
+        curr_ma = hist_s['close'].mean()
         
         # 逻辑：价格回升至均线以上，或者触发基本面止损
         if price > curr_ma:
@@ -773,71 +773,82 @@ def trade_logic(context):
 
     # 4. 买入逻辑 (方案A：资金利用率最大化)
     # 按偏离度从大到小排序，选最“超跌”的
-    $candidates = sorted(candidates, key=lambda x: x['dev'], reverse=True)$
+    candidates = sorted(candidates, key=lambda x: x['dev'], reverse=True)
     
     for item in candidates:
 
         if len(context.portfolio.positions) >= g.stock_count:
             break
-        $stock = item['code']$
+        stock = item['code']
 
         if stock not in context.portfolio.positions:
             # 等权重分配资金
 
-            $cash = context.portfolio.available_cash / (g.stock_count - len(context.portfolio.positions))$
+            cash = context.portfolio.available_cash / (g.stock_count - len(context.portfolio.positions))
             order_value(stock, cash)
 
             log.info(f"买入超跌股: {stock}, 偏离度: {item['dev']:.2%}")
+```
 
+> Example：聚宽动量策略（动态窗口）
+
+```python
+from jqlib.alpha101 import *
+import numpy as np
+import pandas as pd
+
+def initialize(context):
+    set_benchmark('000300.XSHG')
+    set_option('use_real_price', True)
     set_order_cost(OrderCost(close_tax=0.001, open_commission=0.0003, close_commission=0.0003, min_commission=5), type='stock')
-    
+
     g.security = '000300.XSHG'
     # 核心改动：不再固定20天，而是设定一个范围
-    $g.min_window = 10$
-    $g.max_window = 30$
+    g.min_window = 10
+    g.max_window = 30
 
-    $g.stop_loss_threshold = 0.05$
-    
+    g.stop_loss_threshold = 0.05
+
     run_daily(momentum_trade, time='14:40')
 
 def momentum_trade(context):
-    $security = g.security$
+    security = g.security
     
     # 1. 环境切换逻辑：计算波动率(ATR)来动态调整窗口
     # 波动大时用短窗口捕捉爆发，波动小时用长窗口过滤震荡
-    $hist_v = attribute_history(security, 40, '1d', ['high', 'low', 'close'])$
+    hist_v = attribute_history(security, 40, '1d', ['high', 'low', 'close'])
     # 简单波动率计算
 
-    $volatility = np.std(hist_v['close'].pct_change().dropna())$
+    volatility = np.std(hist_v['close'].pct_change().dropna())
     
     # 动态计算窗口：波动率越大，窗口越短
     # 这能解决你后期曲线走平的问题，因为后期波动变小，策略会自动延长观察期去寻找大单
-    $current_window = int(np.clip(20 / (volatility / 0.015), g.min_window, g.max_window))$
+    current_window = int(np.clip(20 / (volatility / 0.015), g.min_window, g.max_window))
     
     # 2. 获取数据
 
-    $hist = attribute_history(security, current_window + 1, '1d', ['close', 'volume'], df=True)$
-    $current_data = get_current_data()$
-    $current_price = current_data[security].last_price$
+    hist = attribute_history(security, current_window + 1, '1d', ['close', 'volume'], df=True)
+    current_data = get_current_data()
+    current_price = current_data[security].last_price
     
     # 3. 动量与量能计算
 
-    $momentum_score = (hist['close'].iloc[-1] - hist['close'].iloc[0]) / hist['close'].iloc[0]$
-    $avg_vol = hist['volume'].mean()$
-    $vol_multiplier = hist['volume'].iloc[-1] / avg_vol$
+    momentum_score = (hist['close'].iloc[-1] - hist['close'].iloc[0]) / hist['close'].iloc[0]
+    avg_vol = hist['volume'].mean()
+    vol_multiplier = hist['volume'].iloc[-1] / avg_vol
     
     # 4. 仓位安全检查
 
     if security in context.portfolio.positions:
-        $pos = context.portfolio.positions[security]$
-        $current_amount, avg_cost = pos.total_amount, pos.avg_cost$
+        pos = context.portfolio.positions[security]
+        current_amount, avg_cost = pos.total_amount, pos.avg_cost
     else:
 
-        $current_amount, avg_cost = 0, 0$
+        current_amount, avg_cost = 0, 0
 
     # 5. 改进的交易逻辑
 
-    $if current_amount == 0:$
+    if current_amount == 0:
         # 只要涨幅超过 1 个标准差且量能温和放大，就认为动量开启
         if momentum_score > (volatility * np.sqrt(current_window)) and vol_multiplier > 1.1:
             log.info(f"动态窗口({current_window}天)触发买入 | 涨幅:{momentum_score:.2%}")
@@ -845,7 +856,7 @@ def momentum_trade(context):
             
     else:
         # 退出逻辑：跌破动态窗口内的最低价（追踪止损）
-        $lowest_price = hist['close'].min()$
+        lowest_price = hist['close'].min()
         if current_price < avg_cost * (1 - g.stop_loss_threshold):
             log.error("触发快速止损")
 
@@ -853,6 +864,7 @@ def momentum_trade(context):
         elif current_price < lowest_price * 1.02: # 价格回落到区间底部附近就走
             log.warn("趋势走弱，追踪止盈离场")
             order_target(security, 0)
+```
 
 - 结构性移位（Structural Shifts）：由市场或监管结构变化引起（如十进制改革, 取消卖空限制）。这类移位通常由政府预告，无需预测，但其后果难以精确估量。
 - 经济/金融状态：包括通胀/衰退, 高低波动率, 均值回归/趋势等状态。
@@ -876,11 +888,11 @@ def momentum_trade(context):
 
 <blockquote><p>Example 7.1: Market regime detection </p><p>这个和书里不是一个例子，书里的复现不出来，这个比较类似，大家看一看学习一下regime switch的思想。关于Agglomerative Clustering， GMM， HMM的内容可以谷歌。 </p><p>汉化版：
 
-[file_011.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_011.ipynb)
+[[Market regime detection.ipynb]]
 
 </p><p>原版：
 
-[file_012.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_012.ipynb)
+[[Market regime detection-with-outputs.ipynb]]
 
 </p><p>GitHub链接： Market regime detection using Statistical and ML based approaches</p></blockquote>
 
@@ -909,16 +921,16 @@ def momentum_trade(context):
 - 协整性： 指两只股票的长期价格水平是否保持稳定的距离。
 - 结论： 相关性强的股票（如KO与PEP）不一定协整；而协整的股票即使日收益率看起来不相关（如文中图7.6的例子），其价差最终也会回到均值。
 
-![image](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/img_003.png)
+![[attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/img_003.png]]
 <blockquote><p>Example 7.2: How to Form a Good Cointegrating (and Mean-Reverting) Pair of Stocks</p><p>在2024年以后GLD和GDX已经不协整了，所以本例使用了EWA和EWC</p><p>
 
-[file_013.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_013.ipynb)
+[[How to Form a Good Cointegrating (and Mean-Reverting) Pair of Stocks.ipynb]]
 
 </p></blockquote>
 
 <blockquote><p>Example 7.3: Testing the Cointegration versus Correlation Properties between KO and PEP</p><p>
 
-[file_014.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_014.ipynb)
+[[Testing the Cointegration versus Correlation Properties between KO and PEP.ipynb]]
 
 </p></blockquote>
 
@@ -943,7 +955,7 @@ def momentum_trade(context):
 
 <blockquote><p>Example：APPL Fama-French_3Factor_Ex-Post_Attribution_Analysis</p><p>
 
-[file_015.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_015.ipynb)
+[[Fama-French 模型.ipynb]]
 
 </p></blockquote>
 
@@ -958,7 +970,7 @@ def momentum_trade(context):
 
 <blockquote><p>Example 7.4: Principal Component Analysis as an Example of Factor Model</p><p>
 
-[file_016.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_016.ipynb)
+[[Principal Component Analysis factor trading demo.ipynb]]
 
 </p></blockquote>
 
@@ -1020,7 +1032,7 @@ $$Half-life = \ln(2)/\theta$$
 
 <blockquote><p>Example 7.5: Calculation of the Half-Life of a Mean-Reverting Time Series</p><p>本例没有使用书里的数据，因为GLD &amp; GDX在近年已经不协整了，我使用了 "GDXJ" 和 "GDX“ 从2022年以后的数据，效果稍好一些。</p><p>
 
-[file_017.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_017.ipynb)
+[[Example_7_5_half_life.ipynb]]
 
 </p></blockquote>
 
@@ -1041,7 +1053,7 @@ $$Half-life = \ln(2)/\theta$$
 
 <blockquote><p>Example 7.6: Backtesting the January Eﬀect</p><p>
 
-[file_018.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_018.ipynb)
+[[Backtesting the January Effect.ipynb]]
 
 </p></blockquote>
 
@@ -1052,7 +1064,7 @@ $$Half-life = \ln(2)/\theta$$
 
 <blockquote><p>Example 7.7: Backtesting a Year-on-Year Seasonal Trending Strategy</p><p>
 
-[file_019.ipynb](attachments/FUANdgmFMo3KBlx7W4acZiHyntc/file_019.ipynb)
+[[Backtest a year on year seasonal trending strategie.ipynb]]
 
 </p></blockquote>
 

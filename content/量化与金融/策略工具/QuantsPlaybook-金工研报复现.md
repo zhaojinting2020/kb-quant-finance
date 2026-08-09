@@ -8,6 +8,7 @@ math_repaired_at: '2026-06-27T19:29:26+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
 github_readme_repaired_at: '2026-06-28T08:11:42+00:00'
 images: 2
+custom-width: 85
 ---
 
 # QuantsPlaybook 金工研报复现
@@ -300,7 +301,7 @@ import matplotlib.pyplot as plt
 
 ## 请我喝杯咖啡吧
 
-![image](attachments/hugo2046-quantsplaybook/coffee.png)
+![[coffee.png]]
 ## 相关笔记
 
 [量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)

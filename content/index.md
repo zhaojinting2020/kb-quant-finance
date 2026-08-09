@@ -1,6 +1,7 @@
 ---
 title: 量化学习笔记
 description: 个人量化金融学习路径与读书笔记（Obsidian vault）
+custom-width: 85
 ---
 
 # 量化学习笔记

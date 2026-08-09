@@ -7,6 +7,7 @@ polished_at: '2026-06-27T18:51:39+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:28+00:00'
 note_type: video_bookmark
 video_compacted_at: '2026-06-28T07:32:14+00:00'
+custom-width: 85
 ---
 
 # Python 金融数据分析

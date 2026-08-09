@@ -8,6 +8,7 @@ attachments:
 - file: attachments/documents/Anomaly-Detection-5504b7dfdf94/Time Series Anomaly Detection
     Algorithms - Cube Dev.pdf
   title: Time Series Anomaly Detection Algorithms - Cube Dev.pdf
+custom-width: 85
 ---
 
 # Time Series Anomaly Detection Algorithms - Cube Dev
@@ -108,4 +109,4 @@ Was it helpful? Please recommend and share this article to help other people And
 
 ## 源文件
 
-- [Time Series Anomaly Detection Algorithms - Cube Dev.pdf](attachments/documents/Anomaly-Detection-5504b7dfdf94/Time Series Anomaly Detection Algorithms - Cube Dev.pdf)
+- [[Time Series Anomaly Detection Algorithms - Cube Dev.pdf]]

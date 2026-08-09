@@ -7,7 +7,7 @@ fetched_at: 2026-06-28 05:09:12+00:00
 feishu_formatted_at: 2026-06-28 05:09:12+00:00
 urls_repaired_at: 2026-06-28 05:09:12+00:00
 wikilinks_unbulleted_at: 2026-06-28 05:48:29+00:00
-custom-width: 72
+custom-width: 85
 code_blocks_repaired_at: '2026-07-02T05:27:29+00:00'
 ---
 
@@ -100,7 +100,7 @@ code_blocks_repaired_at: '2026-07-02T05:27:29+00:00'
 
 ### 1.4.2 常见的金融标的的风险和收益
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_001.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_001.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -121,7 +121,7 @@ code_blocks_repaired_at: '2026-07-02T05:27:29+00:00'
 
 股票代码; 交易日期; 收盘价; 开盘价; 最高价; 最低价; 成交量
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_004.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_004.png]]
 
 <p class="kb-image-caption">图例</p>
 - 成交量加权平均价格（VWAP）：**在某段时间内，按成交量加权计算的平均价格**。它能更准确地反映市场交易的真实平均成本。可以用来判断买入或者卖出是否在合理的价格。如果当天股价高于 VWAP → 表示买盘较强；低于 VWAP → 卖盘占优。
@@ -129,7 +129,7 @@ code_blocks_repaired_at: '2026-07-02T05:27:29+00:00'
 - 波动率：越高说明波动越明显
 - 年波动率/月波动率 ...
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_005.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_005.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -781,7 +781,7 @@ print(_JS, MAJS1, MAJS2, MAJS3)
 
 相对强弱指标，是期货市场和股票市场中最为著名的摆动指标。显示的是股价向上波动的幅度占总的波动幅度的百分比。如果数值大，就说明市场处于强势状态，如果数值小，则表示市场处于弱势。
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_023.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_023.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -803,33 +803,33 @@ g.macd_yesterday = _MACD[security]
 
 - Alpha：是投资者获得的与市场波动无关的回报。阿尔法系数，是基金/投资的绝对回报和按照beta系数计算的预期回报之间的差额。阿尔法收益与风险的相关性很低。
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_025.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_025.png]]
 
 <p class="kb-image-caption">图例</p>
 - Beta：表示投资的系统性风险，反映了策略对大盘变化的敏感性。例如一个策略的Beta为1.5, 则大盘涨1%的时候，策略可能涨1.5%，反之亦然。如果一个策略的Beta为-1.5, 则大盘涨1%的时候，策略跌1.5%， 反之亦然。
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_026.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_026.png]]
 
 <p class="kb-image-caption">图例</p>
 - 夏普比率：表示每承受一单位总风险，会产生多少的超额报酬，可以同时对策略的收益和风险进行综合考虑。表示投资人每多承担一份风险，可以拿到较无风险报酬率（定存利率）高出几分的报酬。若为正值，代表投资人承担报酬率波动风险有正的反馈，若为负值，代表投资人承受风险但报酬率反而不如银行利率，无参考意义。
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_027.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_027.png]]
 
 <p class="kb-image-caption">图例</p>
 - 索提诺比率：表示每承担一单位的下行风险将会i获得多少的超额回报。与夏普比率相比，索提诺运用下行波动率而不是总标准差，以区别不利和有利的波动。这一比率越高，表明承担相同单位下行风险时能获得更高的超额回报率。索提诺比率可以看作是夏普比率在衡量股票风险上的一种修正方式。
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_028.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_028.png]]
 
 <p class="kb-image-caption">图例</p>
 
 信息比率越大，说明该策略单位跟踪误差所获得的超额收益越高。因此，信息比率较大的策略的表现要优于信息比率较低的基准。合理的投资目标是在承担适度风险下，尽可能追求高信息比率。泡沫较少，信息比率较高; 泡沫较多，信息比率较低
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_029.png)
+![[attachments/清华大学量化交易学习笔记-QWvgdchvTopiqNx3vTvcCTg0nRh/img_029.png]]
 
 <p class="kb-image-caption">图例</p>
 - 最大回撤：指在选定周期内任一历史时点向后推，股价走到最低点时的收益率回撤幅度的最大值（即在某一段时期内股价从最高点开始回落到最低点的幅度）。最大回撤用来描述买入股票后可能出现的最糟糕的情况。最大回车是一个重要的风险指标。最大回撤为0, 说明是单边上涨。
 
-![image](attachments/QWvgdchvTopiqNx3vTvcCTg0nRh/img_032.png)
+![[img_032.png]]
 
 <p class="kb-image-caption">图例</p>
 

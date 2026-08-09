@@ -6,13 +6,14 @@ feishu_formatted_at: '2026-06-28T04:31:48+00:00'
 equations_repaired_at: '2026-06-28T04:31:48+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
 sheets_expanded_at: '2026-06-29T10:26:35+00:00'
+custom-width: 85
 ---
 
 # 概率论基础
 
 ## 随机变量（Random Variable）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_001.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_001.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -372,7 +373,7 @@ $$\mathrm{Var}(X) = \frac{(b - a)^2}{12}$$
 
 ### 正态分布（Normal Distribution）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_008.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_008.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -436,7 +437,7 @@ https://www.datacamp.com/tutorial/binomial-distribution
 
 ### 泊松分布（Poisson Distribution）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_013.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_013.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -534,7 +535,7 @@ $$X_1 + X_2 \sim \mathrm{Poisson}\big((\lambda_1 + \lambda_2)T\big)$$
 
 ### 指数分布（Exponential）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_014.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_014.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -622,7 +623,7 @@ $$\kappa = \gamma_2 - 3$$
 
 **性质**
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_016.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_016.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -630,7 +631,7 @@ $$\kappa = \gamma_2 - 3$$
 
 ### 中心极限定理（Central Limit Theorem）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_017.png)
+![[img_017.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -752,7 +753,7 @@ $$\begin{aligned}P(|X - \mu| \le \sigma) &\approx 0.68, \\ P(|X - \mu| \le 2\sig
 
 ### 厚尾分布（Fat Tail）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_019.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_019.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -852,7 +853,7 @@ $$\text{CVaR}_\alpha = \mathbb{E}[X \mid X \le \text{VaR}_\alpha]$$
 
 $$F(x) = P(X \le x)$$
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_020.png)
+![[img_020.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -1098,7 +1099,7 @@ Sharpe Ratio 是量化分析中最常用的风险调整收益指标之一，广�
 
 **相关性与独立性的区别**
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_024.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_024.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -1272,7 +1273,7 @@ P 值仅回答一个问题：若世界是随机的，这样的样本结果有多
 
 ### Z 检验（Z-Test）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_028.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_028.png]]
 
 <p class="kb-image-caption">图例</p>
   - $H_1:\ \mu \neq  \mu_0$，拒绝规则为：$|Z| > z_{\alpha/2} $, 其中 $z_{\alpha/2}$ 为标准正态分布的分位点。
@@ -1389,7 +1390,7 @@ $$\bar X \pm t_{\alpha/2, \, n-1}\frac{s}{\sqrt{n}}$$
 
 ### 卡方统计量（Chi-Square Statistic）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_030.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_030.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -1440,7 +1441,7 @@ $$\nu = k - 1 \quad \text{（或扣除估计参数后的自由度）}$$
 
 **Z, t, χ² 检验对比**
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_031.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_031.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -1644,7 +1645,7 @@ $$R_{\text{strategy}} = \alpha + \beta R_{\text{market}} + \varepsilon$$
 此时，β 衡量策略的系统性风险暴露，α 则被解释为风险调整后的超额收益。进一步地，线性回归还是多因子模型, 风控归因, 特征筛选和模型验证的基础模块。即使在非线性模型盛行的今天，线性回归仍然承担着“基准模型”和“解释工具”的角色，是量化工程师绕不开的基本功。
 
 ### 多元线性回归（Multiple Linear Regression）
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_037.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_037.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -1991,7 +1992,7 @@ $$\sum_{i=1}^n e_i x_{ij} = 0, \quad j=1, \dots, k$$
 
 ### 平稳性（Stationarity）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_039.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_039.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -2025,7 +2026,7 @@ https://www.youtube.com/watch?v=aIdTGKjQWjA
 
 ### 白噪声（White Noise）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_040.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_040.png]]
 
 <p class="kb-image-caption">图例</p>
 
@@ -2125,7 +2126,7 @@ $$X_t = \phi_1 X_{t-1} + \phi_2 X_{t-2} + \cdots + \varepsilon_t$$
 
 ### \*随机过程（Stochastic Process）
 
-![image](attachments/OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_041.png)
+![[attachments/量化必备-概率论与统计学基础-OYLZdqQEtoEJeJxzsGHcFe2RnUL/img_041.png]]
 
 <p class="kb-image-caption">图例</p>
 

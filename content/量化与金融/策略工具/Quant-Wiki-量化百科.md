@@ -7,6 +7,7 @@ polished_at: '2026-06-27T18:51:40+00:00'
 math_repaired_at: '2026-06-27T19:29:26+00:00'
 organized_at: '2026-06-28T05:57:25+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 # Quant Wiki 量化百科

@@ -9,6 +9,7 @@ attachments:
 - file: attachments/imported/quant-books/root-fcea489c220e/Machine-Trading-Ernest-P.-Chan
     (2).pdf
   title: Machine-Trading-Ernest-P.-Chan (2).pdf
+custom-width: 85
 ---
 
 # Algorithmic Trading — Ernest P. Chan

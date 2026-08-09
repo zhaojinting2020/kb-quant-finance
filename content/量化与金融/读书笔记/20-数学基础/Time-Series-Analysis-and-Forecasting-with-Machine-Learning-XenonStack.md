@@ -8,6 +8,7 @@ attachments:
 - file: attachments/documents/Anomaly-Detection-10643e70d937/Time Series Analysis
     and Forecasting with Machine Learning - XenonStack.pdf
   title: Time Series Analysis and Forecasting with Machine Learning - XenonStack.pdf
+custom-width: 85
 ---
 
 # Time Series Analysis and Forecasting with Machine Learning - XenonStack
@@ -200,4 +201,4 @@ XenonStack Data Visualization & ArtiGcial Intelligence Services enables you to d
 
 ## 源文件
 
-- [Time Series Analysis and Forecasting with Machine Learning - XenonStack.pdf](attachments/documents/Anomaly-Detection-10643e70d937/Time Series Analysis and Forecasting with Machine Learning - XenonStack.pdf)
+- [[Time Series Analysis and Forecasting with Machine Learning - XenonStack.pdf]]

@@ -7,6 +7,7 @@ import_mode: A
 attachments:
 - file: attachments/imported/quant-books/root-5a9dd3775cc7/a-practical-guide-to-quantitative-finance-interviews.pdf
   title: a-practical-guide-to-quantitative-finance-interviews.pdf
+custom-width: 85
 ---
 
 # An Interview Primer for Quantitative Finance

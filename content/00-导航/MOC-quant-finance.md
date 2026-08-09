@@ -1,3 +1,7 @@
+---
+custom-width: 85
+---
+
 # 量化与金融
 
 20 bookmarks

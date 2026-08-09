@@ -8,6 +8,7 @@ attachments:
 - file: attachments/documents/Anomaly-Detection-0c0f447c3535/Anomaly Detection with
     Time Series Forecasting - XenonStack.pdf
   title: Anomaly Detection with Time Series Forecasting - XenonStack.pdf
+custom-width: 85
 ---
 
 # Anomaly Detection with Time Series Forecasting - XenonStack
@@ -248,4 +249,4 @@ fe}
 
 ## 源文件
 
-- [Anomaly Detection with Time Series Forecasting - XenonStack.pdf](attachments/documents/Anomaly-Detection-0c0f447c3535/Anomaly Detection with Time Series Forecasting - XenonStack.pdf)
+- [[Anomaly Detection with Time Series Forecasting - XenonStack.pdf]]

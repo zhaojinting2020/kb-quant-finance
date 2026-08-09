@@ -12,6 +12,7 @@ attachments:
     .pdf
   title: The Man Who Solved the Market _ How Jim Simons Launched the -- Zuckerman,
     Gregory -- 1, 1, 2019 -- Penguin_Random_House_LLC .pdf
+custom-width: 85
 ---
 
 # The Man Who Solved the Market — Gregory Zuckerman

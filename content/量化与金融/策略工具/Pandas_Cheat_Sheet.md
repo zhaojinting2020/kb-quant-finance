@@ -7,6 +7,7 @@ import_mode: A
 attachments:
 - file: attachments/imported/quant-books/root-e474f5722d14/Pandas_Cheat_Sheet.pdf
   title: Pandas_Cheat_Sheet.pdf
+custom-width: 85
 ---
 
 # Pandas_Cheat_Sheet

@@ -7,6 +7,7 @@ import_mode: A
 attachments:
 - file: attachments/imported/quant-books/root-d3bb5bccc3de/Quant Interview Study Guide.pdf
   title: Quant Interview Study Guide.pdf
+custom-width: 85
 ---
 
 # Quant Interview Study Guide（速查表）

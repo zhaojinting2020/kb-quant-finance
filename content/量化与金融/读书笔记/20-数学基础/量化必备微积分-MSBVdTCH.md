@@ -3,6 +3,7 @@ title: 量化必备：微积分
 url: https://www.feishu.cn/docx/MSBVdTCHRoMlTaxWIrUcPrzon8b
 quality: raw
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 <title>量化必备：微积分</title>
