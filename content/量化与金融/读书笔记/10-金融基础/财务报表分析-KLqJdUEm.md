@@ -9,7 +9,7 @@ restored_at: 2026-06-28 18:00:00+00:00
 restored_from: git:78dd28b
 restore_note: 2026-06-28 飞书重拉后正文截断, 章节错位，已从 git 完整版恢复
 wikilinks_refreshed_at: 2026-07-04 12:18:05+00:00
-custom-width: 86
+custom-width: 85
 ---
 
 # 财务报表分析与基础
@@ -35,9 +35,9 @@ custom-width: 86
 - 负债（股东权益）：资产来源
 ### 基本财务报表
 #### 资产负债表
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_001.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_001.png]]
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_002.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_002.png]]
 
 **对资产的分类**
 - 流动资产：一年内可以转化为货币的资产，如家电类企业的存货。或者一个经营周期内，能转换成货币的资产，如房地产企业的存货。
@@ -59,9 +59,9 @@ custom-width: 86
 - 投资资产：企业以获取投资收益或资本增值为目的持有的资产，不直接参与企业主营业务，但能通过投资收益, 股利, 利息或资产升值对利润做出贡献。
 - 投资
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_003.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_003.png]]
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_004.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_004.png]]
 
 资产负债表的负债部分代表了企业的权益归属 -- 企业发展的动力机制传统的权益分类只关注负债率而没有关注债务结构。
 **对负债的分类**
@@ -91,7 +91,7 @@ custom-width: 86
 总的来说，企业发展的四大动力因素分别为：经营性负债，金融性负债，股东入资和利润积累。资产是企业发展的 **基础和载体**；融资与利润才是企业发展的 **动力**。
 
 #### 利润表
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_006.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_006.png]]
 
 收入-费用=净利润营业收入-营业成本=毛利润凡是使利润增加的因素或者项目都叫收入。
 - 营业收入
@@ -175,39 +175,39 @@ custom-width: 86
 购买商品，接受劳务支付的现金-->0.4
 
 #### 把存货的3千万出售，坐价8千万。收到货币资金2千万，余款6千万三个月后支付。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_018.png)
+![[img_018.png]]
 
-货币资金-->2.3存货-->0.3应收账款-->0.6股东权益增减-->0.8-->0.5 ![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_019.png)
+货币资金-->2.3存货-->0.3应收账款-->0.6股东权益增减-->0.8-->0.5 ![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_019.png]]
 
 营业收入-->0.8营业成本-->0.3 
 
 销售商品，提供劳务收到的现金-->0.2
 
 #### 企业用6千万对外投资形成子公司，子公司的注册资本1亿元。对于母公司：
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_021.png)
+![[img_021.png]]
 
 货币资金-->1.7长期股权投资-->0.6投资
 
 对利润表没有影响
 
 投资支付的现金-->0.6当母公司控制子公司的时候，需要编制合并报表。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_023.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_023.png]]
 
 合并资产负债表，合并总资产增加4千万。总资产-->4.1 （增加0.4)股东权益-->2.9 (增加0.4）
 
 #### 子公司取得银行借款5千万
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_024.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_024.png]]
 
 子公司资产负债表：
 
-总资产-->1.5负债-->0.5 ![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_025.png)
+总资产-->1.5负债-->0.5 ![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_025.png]]
 
 合并资产负债表：
 
 总资产 --> 4.6负债 --> 1.7
 
 #### 子公司获利2千万
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_026.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_026.png]]
 
 总资产--> 4.8股东权益 --> 3.1
 
@@ -224,18 +224,18 @@ custom-width: 86
 
 ---
 **以格力电器为例：**
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_027.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_027.png]]
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_028.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_028.png]]
 
 两者的差是控制性投资的基本规模。控制性投资已经并入到母公司的股权投资项目，其余在合并报表中体现的都是零散的非控制性投资。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_029.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_029.png]]
 
-其他应收款项，两者的差额就是子公司占有的资金![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_030.png)
+其他应收款项，两者的差额就是子公司占有的资金![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_030.png]]
 
 两者的差额体现了企业的多样化，多元化。可以看出格力电器的多元化程度不高。
 **以美的为例：**
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_031.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_031.png]]
 - 看起来不像自己做经营性业务的公司，而是像机关。
 
 - 其他流动资产：228亿。可能是理财性投资项目的一些资产。
@@ -248,17 +248,17 @@ custom-width: 86
 
 ### 企业综合效应分析
 **以下面公司为例，该公司的多元化战略的效应如何呢？**
-母公司与合并报表资源规模差额![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_033.png)
+母公司与合并报表资源规模差额![[img_033.png]]
 
-合并报表营业总收入![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_034.png)
+合并报表营业总收入![[img_034.png]]
 
-合并报表毛利![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_035.png)
+合并报表毛利![[img_035.png]]
 
-合并报表净利润![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_036.png)
+合并报表净利润![[img_036.png]]
 
 请读者自行分析。
 **以珠海中富为例：**
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_037.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_037.png]]
 - 流动资产合计：34亿
 - 其他应收款：24亿
 - 非流动资产：27亿
@@ -267,27 +267,27 @@ custom-width: 86
 - 控制性投资资产：48亿
 
 珠海中富是投资主导型公司。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_038.png)
+![[img_038.png]]
 - 其他应收款：4900万，可以忽略
 - 长期股权投资：750万，可以忽略
 
 珠海中富通过长期股权投资，其他应收款向子公司提供资金。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_039.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_039.png]]
 - 资产减值损失大幅下降
 - 营业外收入大幅上升
 
 才能实现转亏为盈
 **以特变电工为例：**
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_040.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_040.png]]
 - 资产总计：592亿（合并报表） vs. 302亿（母公司），两者差额290亿
 - 长期股权投资：差额91亿
 - 其他应收款：差额28亿
 
 母公司用于对外控制性投资的资产120亿，撬动了290亿的资产。效果不错。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_041.png)
+![[attachments/财务报表分析与基础-KLqJdUEmNoAdRCxFs2fc5woEnDg/img_041.png]]
 
 经营活动产生现金流量的能力不强，很难对企业的扩张活动起到一个有力的支撑。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_042.png)
+![[img_042.png]]
 
 特变电工的筹资活动非常丰富，能力很强。
 
@@ -314,7 +314,7 @@ custom-width: 86
 
 利润积累：
 以格力电器为例：
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_043.png)
+![[img_043.png]]
 
 负债合计1128亿，其中
 - 贷款：占不到40亿。
@@ -327,7 +327,7 @@ custom-width: 86
 - 应付员工薪酬 & 应交税费
 - 其他流动负债：486亿（未必是真正的经营性负债，可能是盈余管理行为）
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_044.png)
+![[img_044.png]]
 
 负债和所有者权益总计1362亿
 - 股本+资本公积 = 62亿，可以忽略不计。
@@ -337,7 +337,7 @@ custom-width: 86
 - 融资成本低（几乎不用付利息）；
 - 风险低（不用依赖银行，不怕融资收紧）。风险点：
 - 过度依赖上下游关系 → 如果供应商不愿赊账, 客户不愿预付，格力的现金流可能受冲击。以珠海中富为例：
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_045.png)
+![[img_045.png]]
 
 经营性负债：13亿
 - 应付票据
@@ -351,12 +351,12 @@ custom-width: 86
 - 一年内到期的非流动负债
 - 应付债券
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_046.png)
+![[img_046.png]]
 
 股东入资：13+3=16亿利润积累：3亿公司较多地利用**金融性负债**，支撑企业的扩张。业务能力不强，规模不大，上下游关系中竞争地位不充分，**经营性负债**少。公司曾经有很好的发行债券的能力和获得长期贷款的能力。靠**股东入资**发展。**累积利润**不高。业务能力萎缩，金融行负债支撑的扩张没有带来效益。靠股东入资和金融性负债可以实现扩张，但需关注扩张能否产生效益。以中国联通为例：
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_047.png)
+![[img_047.png]]
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_048.png)
+![[img_048.png]]
 
 典型的以较少资源撬动更多资源的案例。金融性负债 1200亿
 - 短期借款 933亿
@@ -372,11 +372,11 @@ custom-width: 86
 - 应交税费 15亿
 
 应付票据和应付账款有巨大反差。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_049.png)
+![[img_049.png]]
 
-股东入资：500亿少数股东权益：1530亿利润积累：290亿子公司的经营活动带来巨大贡献。子公司的少数股东作出重大贡献。金融性负债规模大，利润积累可观。会计要素资产负债表![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_050.png)
+股东入资：500亿少数股东权益：1530亿利润积累：290亿子公司的经营活动带来巨大贡献。子公司的少数股东作出重大贡献。金融性负债规模大，利润积累可观。会计要素资产负债表![[img_050.png]]
 
-战略结构资产负债表![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_051.png)
+战略结构资产负债表![[img_051.png]]
 
 ### 中小企业的财务特征与分析要点
 经营主导企业的资产负债表的战略分析
@@ -386,7 +386,7 @@ custom-width: 86
 - 定位：关注**固定资产**的技术装备水平。关注**存货**的市场目标定位。关注利润表中的**毛利率**。关注利润表中的**市场占有率**。
 - 企业是怎么干的关注上下游关系管理中收付款管理存货的周转问题固定资产的利用
 - 效率和效益：效率强调对资产的有效利用，产生市场欢迎的产品。效益强调对资产的有效利用，产生理想的利润。以格力电器和特变电工为例：
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_052.png) 2014 & 2013 年的平均资产总计为1440亿营业总收入为1400亿总资产周转率 = 营业总收入 / 平均资产 = 1毛利率 = （营业总收入 - 营业成本） / 营业总收入 = 0.37, 效益良好![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_053.png)
+![[img_052.png]] 2014 & 2013 年的平均资产总计为1440亿营业总收入为1400亿总资产周转率 = 营业总收入 / 平均资产 = 1毛利率 = （营业总收入 - 营业成本） / 营业总收入 = 0.37, 效益良好![[img_053.png]]
 
 总资产周转率 = 0.65毛利率 = 0.19总资产推动的营业收入不高资产负债表左边要关注三个部分：
 - 行业特征和选择
@@ -408,10 +408,10 @@ custom-width: 86
 
 公平与和谐
 - 强调各方利益的最优化而非某方利益的最大化。资产负债表左边强调利润的产生机制。资产负债表的右边强调的是利益相关者的利益问题，强调利益协调机制（企业发展的根本动力）。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_054.png)
+![[img_054.png]]
 ### 企业资产与资本管理分析
 #### 营运资本与流动资产
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_055.png)
+![[img_055.png]]
 **什么属于营运资金（流动资产-流动负债）：**
 营运资金的概念是为了专门衡量企业短期运转和偿债能力，比“净资产”更能直接回答： “公司现在有没有钱干活, 能不能撑到下个季度发工资和还债”。包括：
 流动资产：
@@ -427,13 +427,13 @@ custom-width: 86
 
 **常规的分析方法：**
 流动比率 = 流动资产/流动负债，一般认为，制造业企业合理的流动比率为2：1左右比较好，但要结合企业的具体情况讨论。以格力电器和珠海中富为例：
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_056.png)
+![[img_056.png]]
 
 流动比率1.07，为什么没有出问题呢？
 - **忽略了流动资产结构**。如某个企业流动资产/流动负债比例为2：1, 但是流动资产全是其他应收款，流动负债全是短期借款。其他应收款没办法填补短期借款的窟窿。
 - **忽略了流动负债结构**。如某个企业流动资产与流动负债比例为1：2.5, 但是流动资产都是存货，流动负债都是预收款项，毛利率为90%。
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_057.png)
+![[img_057.png]]
 
 这种流动负债就比较可怕，因为需要实打实地在期限内进行偿还。
 
@@ -442,7 +442,7 @@ custom-width: 86
 短期借款的管理问题，即流动资产第一行和流动负债第一行之间的关系
 - 考察必要性：是否因需求借款。货币资金和短期借款金额大时，需要关注
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_058.png)
+![[img_058.png]]
 - 是否存在非需求性融资。原因分析：货币资金和短期借款是时点性项目，不具有代表性。
 - 是否有特定地区的经营环境影响。
 - 货币资金结构问题，如其他货币资金（企业被限制的，不能自由支付的资金。如保证金存款，专款专用资金）
@@ -450,15 +450,15 @@ custom-width: 86
 - 考察恰当性
 ##### 巨额其他应收款与集团资金的管理
 其他应收款是与正常企业经营活动无关而形成的零星债权。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_059.png)
+![[img_059.png]]
 
 巨额其他应收款的去向
 - 向子公司提供资金的通道集权化管理，母公司融资能力较强，将自身作为融资平台，为子公司提供资金支持。这样可以最大限度降低整个集团的资金管理问题。被子公司拿走的资金是否为优质资产，取决于子公司的情况。
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_060.png)
+![[img_060.png]]
 - 为母公司和兄弟公司提供资金合并报表的其他应收款异常高，往往是向母公司和兄弟公司提供资金的重要通道其他应收款超过了资产总额的1%一般向母公司和兄弟公司提供的资金是不良资产。
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_061.png)
+![[img_061.png]]
 ##### 特殊业务与会计处理失真
 特殊业务：指预收款项对企业流动负债和负债总额的夸大。特殊处理：预收款项虚增流动负债，资产减值损失虚减流动资产。流动比例被歪曲。
 
@@ -474,9 +474,9 @@ custom-width: 86
 - 应收票据 （其可回收性强于应收账款）
 - 应收账款
 
-比较应收票据与应收账款的规模的变化（合计数年末和年初值的差）![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_062.png)
+比较应收票据与应收账款的规模的变化（合计数年末和年初值的差）![[img_062.png]]
 
-有50亿没有收回来。回款慢了。比较票据与应收账款结构的变化（应收票据质量高，应收账款质量低）![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_063.png)
+有50亿没有收回来。回款慢了。比较票据与应收账款结构的变化（应收票据质量高，应收账款质量低）![[img_063.png]]
 
 企业以减少预收款的方式促销，结论：销售款的回款不足（预收减少，应收增加）格力为了实现预期的销售目标，收款情况有所放缓
 **付款管理问题**
@@ -488,14 +488,14 @@ custom-width: 86
 - 应付票据
 - 应付账款
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_064.png)
+![[img_064.png]]
 
 企业的存货引起了数以百计的应付票据和应付账款的变化。制造业的存货
 - 外购的原材料，燃料
 - 在产品，产成品（包括人工工资，固定资产折旧和其他消耗型资源）
 
 制造业的存货夸大了应付与预付项目的内容。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_065.png) 335亿的负债，86亿的存货，两者相差250亿。企业的存货周转的速度远远快与企业对供应商的付账速度。以非常少的现金消耗，维持了一个非常不错的现金周转。这250亿的差额，就是企业对供应商的资金占用而支持企业发展的表现。由此，企业可以节约250亿的现金流出量。企业促销（虽然）造成回款减少（现金）约100亿（但）企业对供应商的付款速度降低节约（现金）约250亿以上由此产生企业经营活动的现金净额至少100亿以上。
+![[img_065.png]] 335亿的负债，86亿的存货，两者相差250亿。企业的存货周转的速度远远快与企业对供应商的付账速度。以非常少的现金消耗，维持了一个非常不错的现金周转。这250亿的差额，就是企业对供应商的资金占用而支持企业发展的表现。由此，企业可以节约250亿的现金流出量。企业促销（虽然）造成回款减少（现金）约100亿（但）企业对供应商的付款速度降低节约（现金）约250亿以上由此产生企业经营活动的现金净额至少100亿以上。
 **从社会责任来看这件事，如何呢？**
 格力电器在上下游关系管理中的优势
 - 公司有很强的市场竞争地位
@@ -512,24 +512,24 @@ custom-width: 86
 ---
 
 以特变电工为例：
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_066.png)
+![[img_066.png]]
 
 应收票据+应收账款（年初）=72应收票据+应收账款（年尾）=105回款减少33亿。应收票据少，应收账款多。质量低的债权增加更快，债权质量在下降。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_067.png)
+![[img_067.png]]
 
 预收款项增加了12亿。企业总的债权回收还是少了二十多亿。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_068.png)
+![[img_068.png]]
 
 固定资产，在建工程和无形资产都引起应付票据和应付账款的变化。企业的存货并没有产生太大货币资金的节约量。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_069.png)
+![[img_069.png]]
 
 预付款项也一直很多。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_070.png)
+![[img_070.png]]
 
 说明特变电工的现金回款情况遇到了一定的问题且不易改善。
 
 #### 固定资产与无形资产
-企业以存货或业务为核心进行上下游关系管理，而这种管理方式与企业的经营模式和资源采购特征密切相关。除了流动性资产外，企业的经营资产还包括固定资产和无形资产，这些资源共同决定了企业在上下游管理中的能力和效率。固定资产：达到一定的标准以上，企业可以长期利用的有形资源特点：使用单价高，使用周期长关注固定资产在企业的经营中起到什么作用。无形资产（外部购入）：软件，土地使用权无形资产（企业内部产生）：开发支出企业报表对无形资产的反映是不全面的![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_071.png)
+企业以存货或业务为核心进行上下游关系管理，而这种管理方式与企业的经营模式和资源采购特征密切相关。除了流动性资产外，企业的经营资产还包括固定资产和无形资产，这些资源共同决定了企业在上下游管理中的能力和效率。固定资产：达到一定的标准以上，企业可以长期利用的有形资源特点：使用单价高，使用周期长关注固定资产在企业的经营中起到什么作用。无形资产（外部购入）：软件，土地使用权无形资产（企业内部产生）：开发支出企业报表对无形资产的反映是不全面的![[img_071.png]]
 
 固定资产（净值）增加约11亿固定资产的原值增加大于11亿（考虑折旧因素）
 **固定资产的周转速度**
@@ -556,13 +556,13 @@ custom-width: 86
 对利润表的分析
 
 #### 利润表的结构
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_072.png)
+![[img_072.png]]
 
 营业利润 = 营业总收入 - 营业总成本利润总额 = 营业利润+营业外收支净额净利润（纯利润）= 利润总额−所得税费用
 **利润表中应关注的另外两个利润概念**
 毛利核心利润
 **支撑企业净利润的三个支柱**
-投资收益营业外收入![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_073.png)
+投资收益营业外收入![[img_073.png]]
 
 去年巨亏118亿，今年转亏为盈。去年利润总额去年亏送11亿，今年为正。营业亏损去年今年都为负，但是今年多了一个营业外收入6000多万。营业收入从27亿下降到23亿。营业成本也下降了5亿。所以毛利成本没有变化。销售费用管理费用全面下降，资产减值损失也全面下降。核心业务不行，其他方面比较行。
 **报表内一个企业的净利润包括：**
@@ -570,9 +570,9 @@ custom-width: 86
 **母公司利润的主要来源**
 母公司以自己的经营资产为基础产生的核心利润（核心利润 = 营业收入- 营业成本 - 销售税金及附加 - 营业税金及附加 - 销售费用 - 管理费用 - 财务费用）母公司通过投资获得的投资收益母公司的营业外收入
 **母公司的净利润取决于三个因素**
-母公司的核心利润母公司确认的投资收益母公司的营业外收支净额![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_074.png)
+母公司的核心利润母公司确认的投资收益母公司的营业外收支净额![[img_074.png]]
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_075.png)
+![[img_075.png]]
 
 母公司净利润12.57亿，合并报表净利润119.67亿。
 **母公司净利润的作用**
@@ -580,7 +580,7 @@ custom-width: 86
 **合并报表净利润的意义**
 合并报表的经营活动是整个集团对集团外产生的销售活动，服务活动所带来的效益。合并报表净利润展示或反映了整个集团的综合盈利能力或综合财务效益。
 **归属于母公司所有者的净利润**
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_077.png)
+![[img_077.png]]
 
 市盈率 = 股价 / 每股收益， 每股收益 = 归属于母公司所有者的净利润 / 股数控风险具有股票定价功能
 **三个净利润的总结**
@@ -608,7 +608,7 @@ custom-width: 86
 - 财务费用
 - 资产减值损失
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_078.png)
+![[img_078.png]]
 
 四项费用全面降低。
 **销售费用中固定或不能降低的部分**
@@ -622,7 +622,7 @@ custom-width: 86
 **财务费用的变化**
 与企业的理财有关与企业财务部门的融资管理有关
 **资产减值损失**
-反映相应资产的管理质量反映主观判断![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_079.png)
+反映相应资产的管理质量反映主观判断![[img_079.png]]
 
 相当不低的资产减值损失。
 **对投资收益和营业外收入的分析**
@@ -649,18 +649,18 @@ custom-width: 86
 **经营活动的现金流量充足性分析**
 如果一个企业的存货周转大于2次，企业经营活动的现金流量应为核心利润的1.2 - 1.5倍。企业的核心利润，是投资活动现金流出量的战略支撑；而经营活动的现金流量，才是企业的核心。
 **企业有利润，没有现金流量的原因**：
-应收票据与应收账款之和的增加存货增加![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_081.png)
+应收票据与应收账款之和的增加存货增加![[img_081.png]]
 
 经营活动产生的现金流量净额是负的。营业利润16.93亿。营业核心利润18亿左右，乘以1.5，至少需要20亿左右的现金流量。为什么反而是负的呢？
 
 应收票据应收账款和存货剧增（积压），所以现金没有了。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_082.png)
+![[img_082.png]]
 
 经营活动产生现金流量的能力不强。经营活动现金流量不足以支持他的投资活动。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_083.png)
+![[img_083.png]]
 
 营业利润160亿左右，核心利润在170亿左右。存货周转超过两次。现金流量需要200亿左右。实际为189亿，还是有一点不足。为什么呢？应收票据增加的太多了。总结，经营活动产生的现金流量还可以改善。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_084.png)
+![[img_084.png]]
 
 （更正：“资产总计”应为“经营活动产生的现金流量净额”，“营业总收入”应为“投资活动现金流出u”）格力电器的投资活动流出量远远小于现金流量净额。说明格力电器不依靠融资，靠经营活动的现金流量就可以进行扩张。
 **当企业的经营活动的现金流入量净额不能对其扩张形成战略支撑时，企业的扩张靠什么？**
@@ -669,7 +669,7 @@ custom-width: 86
 #### 投资活动的现金流量分析
 看现金流出量的战略含义
 **投资活动的现金流量包括**
-构建固定资产，无形资产和其他长期资产支付的现金。（企业的扩张主要集中在内部，以强化企业的经营为核心）![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_085.png)
+构建固定资产，无形资产和其他长期资产支付的现金。（企业的扩张主要集中在内部，以强化企业的经营为核心）![[img_085.png]]
 
 特变电工以对外投资扩张为主，内部强化经营能力为辅。
 
@@ -680,7 +680,7 @@ custom-width: 86
 - 借款收到的现金
 - 发行债券收到的现金
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_086.png)
+![[img_086.png]]
 
 特变电工的融资能力强，其融资在支撑企业的扩张。效益一直处于波动中。依靠筹资活动支撑扩张（原因在于经营活动的现金流量不足）平均资产的增长速度快于营业收入的增长速度总资产周转速度偏慢，导致综合效率降低。
 
@@ -744,13 +744,13 @@ custom-width: 86
 - 股权结构，公司治理与核心人物变更
 - 贷款集权与分权管理失控的风险
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_087.png)
+![[img_087.png]]
 
 融资都发生在子公司。中国联通在贷款资金的管理方式上采用的是分权管理。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_088.png)
+![[img_088.png]]
 
 其他应收款在母公司与子公司之间相差 27.7 亿元，说明母公司在向子公司提供资金，形成了集团内部资金输送的通道。结合短期借款可以发现，母公司对外贷款后再把资金下拨给子公司，体现出特变电工在贷款层面具有一定的集权化管理特征，有助于降低集团整体融资成本。但从长期借款情况来看，集团同时存在分权化融资路径，整体呈现“分权为主, 集权为辅”的资金管理模式。这种模式虽然灵活，但也容易导致贷款管理失控。将集团整体贷款规模 150 亿元与货币资金 111 亿元对比，可以看到资金链存在“挤高”迹象，资金压力较大。
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_089.png)
+![[img_089.png]]
 
 与固定资产建设有关的财务费用在决算竣工以前计入相关固定资产的成本。
 **财务报表中的“三高”的情况**
@@ -764,14 +764,14 @@ custom-width: 86
 - 被并购企业与原企业的战略协同效应
 - 跨国并购风险（对国外的经营，法规和人文环境不了解）
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_090.png)
+![[img_090.png]]
 1. 惯性依赖
 
 **惯性依赖的表现和风险**
 - 对供应商资金的占用
 - 对经销商资金的占用
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_091.png)
+![[img_091.png]]
 
 企业的较低流动资产对较高流动负债的关系。凡是较低流动资产对较高流动负债提供保障的，一定是企业的“两头吃”能力比较强。其表现为应付票据，应付账款和预收款项。
 
@@ -790,7 +790,7 @@ custom-width: 86
 - 核心利润与经营活动现金流量的脱节 -- 有利润没钱
 ### 企业的前景分析
 #### 从经营资产看企业的前景
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_092.png)
+![[img_092.png]]
 - 固定资产略有增加
 - 存货下降
 - 营业收入高
@@ -800,7 +800,7 @@ custom-width: 86
 - 流动资产和流动负债的对应关系
 - 空调市场的天花板
 
-经营与投资并并重型企业![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_093.png)
+经营与投资并并重型企业![[img_093.png]]
 
 固定资产增加不多。存货增加了。毛利率在下降。总体感觉，特变电工的现金能力下降，利润质量在下降。对特变电工未来的建议：
 - 提高新增固定资产的利用率
@@ -816,7 +816,7 @@ custom-width: 86
 - 控制性投资撬动的增量资源
 - 控制性投资产生的效益
 
-![image](attachments/KLqJdUEmNoAdRCxFs2fc5woEnDg/img_094.png)
+![[img_094.png]]
 
 对营业收入的贡献：2014年母公司1203亿，合并报表1400亿。母子公司是子公司形成了相当多的对母公司的配套。对利润的贡献：母公司利润81.96, 合并报表160亿。利润增加了80亿。子公司对整个集团利润贡献相当大，子公司效益相当的好。对格力电器未来发展的建议：
 - 母公司更多地开拓市场

@@ -8,6 +8,7 @@ math_repaired_at: '2026-06-27T19:29:26+00:00'
 github_readme_repaired_at: '2026-06-28T08:11:52+00:00'
 images: 15
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 # mplfinance 金融 K 线可视化
@@ -97,7 +98,7 @@ import mplfinance as mpf
 mpf.plot(daily)
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_4_1.png)
+![[readme_4_1.png]]
 
 The default plot type, as you can see above, is `'ohlc'`.  Other plot types can be specified with the keyword argument `type`, for example, `type='candle'`, `type='line'`, `type='renko'`, or `type='pnf'`
 
@@ -105,13 +106,13 @@ The default plot type, as you can see above, is `'ohlc'`.  Other plot types can 
 mpf.plot(daily,type='candle')
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_6_1.png)
+![[readme_6_1.png]]
 
 ```python
 mpf.plot(daily,type='line')
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_7_1.png)
+![[readme_7_1.png]]
 
 ```python
 year = pd.read_csv('examples/data/SPY_20110701_20120630_Bollinger.csv',index_col=0,parse_dates=True)
@@ -119,13 +120,13 @@ year.index.name = 'Date'
 mpf.plot(year,type='renko')
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_8_1.png)
+![[readme_8_1.png]]
 
 ```python
 mpf.plot(year,type='pnf')
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_5_1.png)
+![[readme_5_1.png]]
 
 ---
 
@@ -137,13 +138,13 @@ We can also plot moving averages with the `mav` keyword
 mpf.plot(daily,type='ohlc',mav=4)
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_9_1.png)
+![[readme_9_1.png]]
 
 ```python
 mpf.plot(daily,type='candle',mav=(3,6,9))
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_10_1.png)
+![[readme_10_1.png]]
 
 ---
 We can also display `Volume`
@@ -152,7 +153,7 @@ We can also display `Volume`
 mpf.plot(daily,type='candle',mav=(3,6,9),volume=True)
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_12_1.png)
+![[readme_12_1.png]]
 
 Notice, in the above chart, there are no gaps along the x-coordinate, even though there are days on which there was no trading.  ***Non-trading days are simply not shown*** (since there are no prices for those days).
 
@@ -168,7 +169,7 @@ Notice, in the above chart, there are no gaps along the x-coordinate, even thoug
 mpf.plot(daily,type='candle',mav=(3,6,9),volume=True,show_nontrading=True)
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_14_1.png)
+![[readme_14_1.png]]
 
 ---
 
@@ -194,7 +195,7 @@ iday = intraday.loc['2019-11-06 15:00':'2019-11-06 16:00',:]
 mpf.plot(iday,type='candle',mav=(7,12))
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_18_1.png)
+![[readme_18_1.png]]
 
   The "time-interpretation" of the `mav` integers depends on the frequency of the data, because the mav integers are the *number of data points* used in the Moving Average (not the number of days or minutes, etc).  Notice above that for intraday data the x-axis automatically displays TIME *instead of* date.  Below we see that if the intraday data spans into two (or more) trading days the x-axis automatically displays *BOTH* TIME and DATE
 
@@ -203,7 +204,7 @@ iday = intraday.loc['2019-11-05':'2019-11-06',:]
 mpf.plot(iday,type='candle')
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_20_1.png)
+![[readme_20_1.png]]
 
 ---
 In the plot below, we see what an intraday plot looks like when we **display non-trading time periods** with **`show_nontrading=True`** for intraday data spanning into two or more days.
@@ -212,7 +213,7 @@ In the plot below, we see what an intraday plot looks like when we **display non
 mpf.plot(iday,type='candle',show_nontrading=True)
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_22_1.png)
+![[readme_22_1.png]]
 
 ---
 Below: 4 days of intraday data with `show_nontrading=True`
@@ -221,7 +222,7 @@ Below: 4 days of intraday data with `show_nontrading=True`
 mpf.plot(intraday,type='ohlc',show_nontrading=True)
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_24_1.png)
+![[readme_24_1.png]]
 
 ---
 Below: the same 4 days of intraday data with `show_nontrading` defaulted to `False`.
@@ -230,7 +231,7 @@ Below: the same 4 days of intraday data with `show_nontrading` defaulted to `Fal
 mpf.plot(intraday,type='line')
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_26_1.png)
+![[readme_26_1.png]]
 
 ---
 Below: Daily data spanning across a year boundary automatically adds the *YEAR* to the DATE format
@@ -250,7 +251,7 @@ df.tail(3)
 mpf.plot(df[700:850],type='bars',volume=True,mav=(20,40))
 ```
 
-![chart](attachments/matplotlib-mplfinance/readme_29_1.png)
+![[readme_29_1.png]]
 
 For more examples of using mplfinance, please see the jupyter notebooks in the **[`examples`](https://github.com/matplotlib/mplfinance/blob/master/examples/)** directory.
 

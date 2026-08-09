@@ -3,40 +3,41 @@ title: 《Python 算法交易》学习笔记
 url: https://my.feishu.cn/docx/Cpv4djLFwoWd2CxiXgsc4laSn2f
 quality: raw
 attachments:
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_001.ipynb
-  title: file_001.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_002.ipynb
-  title: file_002.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_003.ipynb
-  title: file_003.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_004.ipynb
-  title: file_004.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_005.ipynb
-  title: file_005.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_006.ipynb
-  title: file_006.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_007.ipynb
-  title: file_007.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_008.ipynb
-  title: file_008.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_009.ipynb
-  title: file_009.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_010.ipynb
-  title: file_010.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_011.py
-  title: file_011.py
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_012.ipynb
-  title: file_012.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_013.ipynb
-  title: file_013.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_014.ipynb
-  title: file_014.ipynb
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_015.py
-  title: file_015.py
-- file: attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_016.ipynb
-  title: file_016.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Reading Financial Data From Different Sources.ipynb
+    title: Reading Financial Data From Different Sources.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Working with Open Data Sources - Quandl.ipynb
+    title: Working with Open Data Sources - Quandl.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Working with Open Data Sources - Eikon.ipynb
+    title: Working with Open Data Sources - Eikon.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Mock Eikon Data API - Unstructured News Retrieval.ipynb
+    title: Mock Eikon Data API - Unstructured News Retrieval.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Storing DataFrame Objects1.ipynb
+    title: Storing DataFrame Objects1.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/UsingTsTables.ipynb
+    title: UsingTsTables.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/UsingParquet.ipynb
+    title: UsingParquet.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Storing_Data_with_SQLite3.ipynb
+    title: Storing_Data_with_SQLite3.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Making Use of Vectorization.ipynb
+    title: Making Use of Vectorization.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Strategies Based on Simple Moving Averages.ipynb
+    title: Strategies Based on Simple Moving Averages.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/SMAVectorBacktester.py
+    title: SMAVectorBacktester.py
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Strategies Based on Momentum.ipynb
+    title: Strategies Based on Momentum.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/mean_reversion_backtest.ipynb
+    title: mean_reversion_backtest.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Using Linear Regression for Market Movement Prediction.ipynb
+    title: Using Linear Regression for Market Movement Prediction.ipynb
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/LRVectorBacktester.py
+    title: LRVectorBacktester.py
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Using Machine Learning for Market Movement Prediction.ipynb
+    title: Using Machine Learning for Market Movement Prediction.ipynb
 fetch_source: feishu:cli
-fetched_at: '2026-08-08T03:38:14+00:00'
+fetched_at: 2026-08-08T03:38:14+00:00
+custom-width: 85
 ---
 
 # Introduction
@@ -142,7 +143,7 @@ Python 曾因作为解释型语言运行缓慢（尤其是处理金融循环算�
 - 原理： 基于技术分析。通过不同周期的均线交叉产生信号。
 - 逻辑： 典型的“金叉/死叉”逻辑。当短期 SMA 高于长期 SMA 时看多（Long），反之看空（Short）或保持中性。
 
-![image](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/img_001.png)
+![[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/img_001.png]]
 
 动量策略 (Momentum)
 
@@ -183,7 +184,7 @@ Python 部署的挑战
 - 容器化 (Container)：如 `Docker`。将整个操作系统环境与代码打包，确保在本地与云端运行表现完全一致。
 - 云实例 (Cloud Instance)：利用高性能、高可用的云服务器进行部署。按需计费且易于扩展，满足金融交易对安全和性能的要求。
 
-![image](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/img_002.png)
+![[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/img_002.png]]
 
 ## Anaconda as package and virtual env manager
 
@@ -281,7 +282,7 @@ Docker 并不是马上必须的。Docker 的真正价值在部署和复现：当
 
 量化数据主要可以分为以下四类： 
 
-| {'border_styles': {'bottom': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}, 'left': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}, 'right': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}, 'top': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}}, 'cell_styles': {'background_color': '#dee0e3', 'font_color': 'rgb(31, 31, 31)', 'font_size': 13, 'vertical_alignment': 'middle'}} | 结构化数据 (Structured) | 非结构化数据 (Unstructured) |
+|  | 结构化数据 (Structured) | 非结构化数据 (Unstructured) |
 | --- | --- | --- |
 | 历史数据 (Historical) | 回测基础数据： * 收盘价 (Closing Price) * K线/分时数据 (OHLCV) * 财务报表 (收入、利润等) | 回溯分析素材： * 历史新闻存档 * 社交媒体历史记录 * 研报/白皮书 PDF 库 |
 | 实时数据 (Real-time) | 交易执行数据： * 盘口五档/十档 (Bid/Ask) * 逐笔成交 (Tick Data) * 订单簿流 (L2 Order Book) | 舆情/事件监控： * 推特实时流 (Twitter Stream) * 突发新闻快讯 (Breaking News) * 财报会议实时转录 |
@@ -299,30 +300,30 @@ Docker 并不是马上必须的。Docker 的真正价值在部署和复现：当
 
 ## Reading Financial Data From Different Sources
 
-[file_001.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_001.ipynb)
+[[Reading Financial Data From Different Sources.ipynb]]
 
 ## Working with Open Data Sources
 
 个人开发者或学生，建议按照以下梯度来选择数据工具
 
-| {'border_styles': {'bottom': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}, 'left': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}, 'right': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}, 'top': {'color': 'rgb(31, 31, 31)', 'style': 'solid', 'weight': 'thin'}}, 'cell_styles': {'background_color': '#dee0e3', 'font_color': 'rgb(31, 31, 31)', 'font_size': 13, 'vertical_alignment': 'middle'}} | 数据源 | 特点 |
+| 梯度 | 数据源 | 特点 |
 | --- | --- | --- |
 | 入门级 (完全免费) | yfinance, tushare (国内) | 简单、无门槛，适合练手。 |
 | 专业学习级 (API 规范) | Nasdaq Data Link (Quandl), Alpha Vantage | 学习如何处理 API 密钥、JSON 解析和结构化时序数据。 |
 | 机构模拟级 | QuantConnect (LEAN) | 这是真正的开源引擎。它提供回测框架，并自带了海量已清洗的机构级数据（免费供回测使用）。 |
 | 顶级机构级 | Eikon, Bloomberg | 极度昂贵，数据极全，带 API 接口。 |
 
-[file_002.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_002.ipynb)
+[[Working with Open Data Sources - Quandl.ipynb]]
 
-[file_003.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_003.ipynb)
+[[Working with Open Data Sources - Eikon.ipynb]]
 
-[file_004.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_004.ipynb)
+[[Mock Eikon Data API - Unstructured News Retrieval.ipynb]]
 
 ## Storing Financial Data Efficiently
 
-[file_005.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_005.ipynb)
+[[Storing DataFrame Objects1.ipynb]]
 
-[file_006.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_006.ipynb)
+[[UsingTsTables.ipynb]]
 
 tstables 基于 HDF5 + 自定义封装，生态封闭且依赖老版本 pandas，维护已经停滞。现在主流使用 Parquet，因为它是标准化的列式存储格式，具备更好的压缩率和读取性能：
 
@@ -330,9 +331,9 @@ tstables 基于 HDF5 + 自定义封装，生态封闭且依赖老版本 pandas�
 - 分区裁剪，只读相关数据; 
 - 跨生态兼容，如Spark / DuckDB / 云数据仓库。
 
-[file_007.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_007.ipynb)
+[[UsingParquet.ipynb]]
 
-[file_008.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_008.ipynb)
+[[Storing_Data_with_SQLite3.ipynb]]
 
 ## Conclusion
 
@@ -409,13 +410,13 @@ df['cum_return'] = (1 + df['strategy_return']).cumprod()
 
 ## Making Use of Vectorization
 
-[file_009.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_009.ipynb)
+[[Making Use of Vectorization.ipynb]]
 
 ## Strategies Based on Simple Moving Averages
 
-[file_010.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_010.ipynb)
+[[Strategies Based on Simple Moving Averages.ipynb]]
 
-[file_011.py](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_011.py)
+[[SMAVectorBacktester.py]]
 
 ## Strategies Based on Momentum
 
@@ -440,11 +441,11 @@ df['cum_return'] = (1 + df['strategy_return']).cumprod()
 
 两者都是“追涨杀跌”，利用的都是趋势的延续性，只是参照对象不同。
 
-[file_012.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_012.ipynb)
+[[Strategies Based on Momentum.ipynb]]
 
 ## 4.4 Strategies Based on Mean Reversion
 
-[file_013.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_013.ipynb)
+[[mean_reversion_backtest.ipynb]]
 
 ## 4.5 Data Snooping and Overfitting
 
@@ -474,13 +475,12 @@ df['cum_return'] = (1 + df['strategy_return']).cumprod()
 
 ## 5.1 Using Linear Regression for Market Movement Prediction
 
-[file_014.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_014.ipynb)
+[[Using Linear Regression for Market Movement Prediction.ipynb]]
 
-[file_015.py](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_015.py)
+[[LRVectorBacktester.py]]
 
 ## 5.2 Using Machine Learning for Market Movement Prediction
 
-[file_016.ipynb](attachments/Cpv4djLFwoWd2CxiXgsc4laSn2f/file_016.ipynb)
+[[Using Machine Learning for Market Movement Prediction.ipynb]]
 
 代码：https://github.com/yhilpisch/py4at
-

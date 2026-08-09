@@ -4,7 +4,7 @@ url: https://my.feishu.cn/docx/VfHgd6lsmoOmWmxtGc8cv0wAnlb
 quality: raw
 feishu_formatted_at: '2026-06-28T09:37:59+00:00'
 equations_repaired_at: 2026-06-28 04:31:09+00:00
-custom-width: 57
+custom-width: 85
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
 sheets_expanded_at: '2026-06-29T10:26:22+00:00'
 ---
@@ -1853,7 +1853,7 @@ $转换价值 = 股票价格 × 转换比率。$
 
 ### 远期合同 vs 期货合同
 
-![image](attachments/VfHgd6lsmoOmWmxtGc8cv0wAnlb/img_001.png)
+![[attachments/量化必备-100个金融术语-VfHgd6lsmoOmWmxtGc8cv0wAnlb/img_001.png]]
 基准年是经济分析或金融指数中用于比较的一年，通常作为时间序列的起点。在指数编制中，基准年常被设定为一个标准化数值（如 100），以便衡量其他年份相对于该年的变化幅度。基准年并不具有预测含义，其作用是为跨期比较提供统一的参照标准。为保持数据的现实意义，指数的基准年可能会定期更新。
 
 ### 基准年的计算作用
@@ -2394,7 +2394,7 @@ $FV = PV × (1 + r)ⁿ$
 
 年金表是一种用于快速计算年金现值的工具，本质上是将现值公式中的计算结果预先整理成查表因子。它广泛应用于会计, 精算, 保险及金融分析领域，用于评估结构化, 等额, 定期现金流在当前时点的价值。在量化实践中，年金表相当于对现值公式的“离线计算版本”。以下是一个普通年金现值表的示例：
 
-![image](attachments/VfHgd6lsmoOmWmxtGc8cv0wAnlb/img_002.png)
+![[attachments/量化必备-100个金融术语-VfHgd6lsmoOmWmxtGc8cv0wAnlb/img_002.png]]
 $\beta_i = \frac{\mathrm{Cov}(R_i, R_m)}{\mathrm{Var}(R_m)}$$\beta_i = \frac{\mathrm{Cov}(R_i, R_m)}{\mathrm{Var}(R_m)}$
 
 即资产收益与市场收益的协方差，除以市场收益的方差。
@@ -3008,7 +3008,7 @@ $$R_i - R_f = \alpha_i + \beta_m (R_m - R_f) + \beta_{SMB} SMB + \beta_{HML} HML
 
 与主动投资的本质差异
 
-![image](attachments/VfHgd6lsmoOmWmxtGc8cv0wAnlb/img_003.png)
+![[attachments/量化必备-100个金融术语-VfHgd6lsmoOmWmxtGc8cv0wAnlb/img_003.png]]
 波动性（Volatility）是资产收益率在给定时间区间内围绕其均值波动程度的度量，本质上是收益分布的离散程度。在金融工程中，波动性通常用标准差表示，并以年化标准差作为统一口径。需要区分：波动性描述不确定性大小，而非价格方向，因此不等同于必然损失的风险。
 
 ### 历史波动率的计算方法

@@ -11,6 +11,7 @@ attachments:
     Questions on Quant Interviews - Dan Stefanica, Rados Radoicic, Tai-Ho Wang.pdf
   title: 150 Most Frequently Asked Questions on Quant Interviews - Dan Stefanica,
     Rados Radoicic, Tai-Ho Wang.pdf
+custom-width: 85
 ---
 
 # 150 Most Frequently Asked Questions on Quant Interviews - Dan Stefanica, Rados Radoicic, Tai-Ho Wang

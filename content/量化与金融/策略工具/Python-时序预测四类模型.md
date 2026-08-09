@@ -7,6 +7,7 @@ math_repaired_at: '2026-06-27T19:29:26+00:00'
 polished_at: '2026-06-28T05:54:53+00:00'
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
 refetched_at: '2026-06-28T05:54:53+00:00'
+custom-width: 85
 ---
 
 # Python 时序预测四类模型

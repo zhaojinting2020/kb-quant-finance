@@ -9,6 +9,7 @@ attachments:
 - file: attachments/imported/quant-books/root-6a96bff405d0/A First Course in Probability
     by Sheldon Ross.pdf
   title: A First Course in Probability by Sheldon Ross.pdf
+custom-width: 85
 ---
 
 # A First Course in Probability by Sheldon Ross

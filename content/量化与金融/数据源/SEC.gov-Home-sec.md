@@ -7,6 +7,7 @@ polished_at: '2026-06-27T18:51:40+00:00'
 note_type: portal
 fetch_note: SEC 官网
 wikilinks_unbulleted_at: '2026-06-28T05:48:29+00:00'
+custom-width: 85
 ---
 
 # SEC.gov | Home

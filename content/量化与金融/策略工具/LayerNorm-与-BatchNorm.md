@@ -2,6 +2,7 @@
 title: LayerNorm 与 BatchNorm
 url: https://blog.csdn.net/FrankieHello/article/details/122656652
 curated_at: '2026-06-28T20:00:00+00:00'
+custom-width: 85
 ---
 
 # LayerNorm 与 BatchNorm

@@ -7,6 +7,7 @@ import_mode: A
 attachments:
 - file: attachments/imported/quant-books/root-4d3184a8fabc/101 Formulaic Alphas.pdf
   title: 101 Formulaic Alphas.pdf
+custom-width: 85
 ---
 
 # 101 Formulaic Alphas
