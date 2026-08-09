@@ -290,7 +290,7 @@ where `<method>` indicates the method you want to import, for example:
 ```
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[LayerNorm-与-BatchNorm|LayerNorm 与 BatchNorm]]
 [[Python-时序预测四类模型|Python 时序预测四类模型]]
 [[Quant-Wiki-量化百科|Quant Wiki 量化百科]]

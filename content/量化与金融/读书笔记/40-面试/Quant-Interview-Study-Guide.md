@@ -26,6 +26,6 @@ custom-width: 85
 
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[150-Most-Frequently-Asked-Questions-on-Quant-Interviews-Dan-Stefanica,-Rados-Radoicic,-Tai-Ho-Wang|150 Quant Interviews — Stefanica 等]]
 [[a-practical-guide-to-quantitative-finance-interviews|QuantitativePrimer — Dirk Bester]]

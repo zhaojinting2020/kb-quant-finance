@@ -26,6 +26,6 @@ Ernest P. Chan. 归档索引：原件见下方链接，正文未做 OCR/全文�
 
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[Machine-Trading-Ernest-P.-Chan-(2)|Algorithmic Trading — Ernest P. Chan]]
 [[学习笔记 - 清华大学《量化交易》- QWvgdchv|清华大学《量化交易》学习笔记]]

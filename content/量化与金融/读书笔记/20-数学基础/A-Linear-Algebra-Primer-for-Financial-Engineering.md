@@ -28,6 +28,6 @@ Dan Stefanica，金融工程线代入门。归档索引：原件见下方链接�
 
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[量化必备线代基础-NQrUdhPP|量化必备：线代基础]]
 [[150-Most-Frequently-Asked-Questions-on-Quant-Interviews-Dan-Stefanica,-Rados-Radoicic,-Tai-Ho-Wang|150 Quant Interviews — Stefanica 等]]

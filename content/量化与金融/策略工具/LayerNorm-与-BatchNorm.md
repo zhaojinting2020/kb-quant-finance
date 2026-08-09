@@ -42,7 +42,7 @@ y = \frac{x - E(x)}{\sqrt{\mathrm{Var}(x) + \epsilon}} \cdot \gamma + \beta
 
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[Python-时序预测四类模型|Python 时序预测四类模型]]
 [[Quant-Wiki-量化百科|Quant Wiki 量化百科]]
 [[Quantreo-量化交易博客|Quantreo 量化交易博客]]

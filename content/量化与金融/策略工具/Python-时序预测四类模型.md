@@ -244,7 +244,7 @@ Here’s a [research paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1249.p
 
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[LayerNorm-与-BatchNorm|LayerNorm 与 BatchNorm]]
 [[Quant-Wiki-量化百科|Quant Wiki 量化百科]]
 [[Quantreo-量化交易博客|Quantreo 量化交易博客]]

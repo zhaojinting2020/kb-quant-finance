@@ -20,3 +20,4 @@ cache/
 .obsidian/plugins/omnisearch/search-cache.json
 .obsidian/plugins/obsidian-linter/default-misspellings.md
 .obsidian/themes/
+.smart-env/

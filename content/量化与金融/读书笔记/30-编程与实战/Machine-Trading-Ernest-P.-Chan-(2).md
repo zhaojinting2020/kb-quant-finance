@@ -28,6 +28,6 @@ custom-width: 85
 
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[algorithmic_trading_winning_strategies_and_their_rationale|Algorithmic Trading: Winning Strategies — Ernest P. Chan]]
 [[学习笔记 -《量化交易如何建立自己的算法交易事业》-FUANdgmF|《量化交易：如何建立自己的算法交易事业》学习笔记]]

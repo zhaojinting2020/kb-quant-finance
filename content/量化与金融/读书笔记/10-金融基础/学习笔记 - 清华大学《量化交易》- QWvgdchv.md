@@ -1022,7 +1022,7 @@ far.create_full_tear_sheet(demeaned=False, group_ajust=False, by_group=False, tu
 
 ## 相关笔记
 
-[量化与金融（主题索引）](../../../../index/MOC-quant-finance.md)
+[[MOC-quant-finance|量化与金融（主题索引）]]
 [[学习笔记 -《量化交易如何建立自己的算法交易事业》-FUANdgmF|《量化交易：如何建立自己的算法交易事业》学习笔记]]
 [[学习笔记 -《Python-算法交易》-Cpv4djLF|《Python 算法交易》学习笔记]]
 [[学习笔记 -《打开量化投资的黑箱》-NJEadk2a|《打开量化投资的黑箱》学习笔记]]
