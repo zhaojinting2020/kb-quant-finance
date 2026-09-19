@@ -1,0 +1,15 @@
+flowchart LR
+  subgraph ROW["第 t 行：某一天的特征"]
+    direction LR
+    P["价格滞后<br/>P_t-1<br/>P_t-2<br/>P_t-3"]
+    R["对数收益滞后<br/>r_t-1<br/>r_t-2<br/>r_t-3"]
+    V["波动率滞后<br/>σ_t-1<br/>σ_t-2<br/>σ_t-3"]
+    O["……还可更多列"]
+    P --- R --- V --- O
+  end
+
+  B["b_t<br/>目标"]
+  ROW --> B
+
+  J["partial_curve 的 j<br/>只挑其中一列来扫"]
+  R -.-> J

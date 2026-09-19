@@ -1,5 +1,41 @@
 * text=auto eol=lf
 
-# Git LFS for vault attachments
+# Git LFS for vault attachments. Source stays in Git so blame matches the text.
 content/attachments/** filter=lfs diff=lfs merge=lfs -text
 attachments/** filter=lfs diff=lfs merge=lfs -text
+
+[attr]source -filter -diff -merge text eol=lf
+attachments/**/*.py source
+attachments/**/*.ipynb source
+attachments/**/*.mmd source
+attachments/**/*.html source
+attachments/**/*.js source
+attachments/**/*.jsx source
+attachments/**/*.ts source
+attachments/**/*.tsx source
+attachments/**/*.css source
+attachments/**/*.scss source
+attachments/**/*.json source
+attachments/**/*.yml source
+attachments/**/*.yaml source
+attachments/**/*.toml source
+attachments/**/*.sh source
+attachments/**/*.r source
+attachments/**/*.sql source
+content/attachments/**/*.py source
+content/attachments/**/*.ipynb source
+content/attachments/**/*.mmd source
+content/attachments/**/*.html source
+content/attachments/**/*.js source
+content/attachments/**/*.jsx source
+content/attachments/**/*.ts source
+content/attachments/**/*.tsx source
+content/attachments/**/*.css source
+content/attachments/**/*.scss source
+content/attachments/**/*.json source
+content/attachments/**/*.yml source
+content/attachments/**/*.yaml source
+content/attachments/**/*.toml source
+content/attachments/**/*.sh source
+content/attachments/**/*.r source
+content/attachments/**/*.sql source

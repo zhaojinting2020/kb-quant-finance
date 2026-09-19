@@ -1,0 +1,25 @@
+flowchart LR
+  subgraph TOY["玩具 A：约 7行 × 3列"]
+    direction TB
+    T0["行 = 某个假时刻"]
+    T1["列0: x 的 lag1"]
+    T2["列1: x 的 lag2"]
+    T3["列2: x 的 lag3"]
+    TB["b = 当前 x"]
+    T0 --- T1 --- T2 --- T3 --> TB
+  end
+
+  subgraph REAL["真实 A：很多行 × 很多列"]
+    direction TB
+    R0["行 = 交易日 t"]
+    R1["价格滞后 3 列"]
+    R2["对数收益滞后 3 列"]
+    R3["波动率滞后 3 列"]
+    R4["……更多特征"]
+    RB["b = 下一日收益等"]
+    R0 --- R1 --- R2 --- R3 --- R4 --> RB
+  end
+
+  TOY -->|"同一套: A / b / A[:, j]"| REAL
+  J["偏依赖 j<br/>只扫其中一列"]
+  REAL --> J

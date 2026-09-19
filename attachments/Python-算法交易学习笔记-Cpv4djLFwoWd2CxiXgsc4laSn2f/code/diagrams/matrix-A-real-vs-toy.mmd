@@ -1,0 +1,20 @@
+flowchart TB
+  subgraph TOY["你现在的玩具代码"]
+    direction TB
+    T1["序列 x = 假数据等差数列"]
+    T2["lags = 3"]
+    T3["A 形状约 7×3<br/>只有一类特征：x 的滞后"]
+    T4["b = 当前 x"]
+    T1 --> T2 --> T3 --> T4
+  end
+
+  subgraph REAL["真实场景的大矩阵 A"]
+    direction TB
+    R1["每一行 = 某一个交易日 t"]
+    R2["很多列 = 不同特征拼在一起"]
+    R3["A 形状常是 T×p<br/>例如 1000 天 × 几十列"]
+    R4["b = 你要对齐预测的目标<br/>如下一日收益或涨跌"]
+    R1 --> R2 --> R3 --> R4
+  end
+
+  TOY -.->|"同一套写法<br/>A, b, partial_curve(j)"| REAL
