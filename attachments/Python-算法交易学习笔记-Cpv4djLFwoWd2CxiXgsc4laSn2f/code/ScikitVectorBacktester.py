@@ -10,6 +10,7 @@
 import numpy as np
 import pandas as pd
 from sklearn import linear_model
+from sklearn.multiclass import OneVsRestClassifier
 
 
 class ScikitVectorBacktester(object):
@@ -54,13 +55,15 @@ class ScikitVectorBacktester(object):
         self.amount = amount
         self.tc = tc
         self.results = None
-        self.model_type = model
         if model == "regression":
             self.model = linear_model.LinearRegression()
         elif model == "logistic":
-            # 本 notebook 的 LogisticRegression：C=1e7，不用书里已失效的 multi_class='ovr'
-            self.model = linear_model.LogisticRegression(
-                C=1e7, solver="lbfgs", max_iter=1000
+            # 书里是 LogisticRegression(..., multi_class='ovr')。
+            # scikit-learn 1.9 删掉了这个参数，OneVsRestClassifier 是同一套一对多。
+            self.model = OneVsRestClassifier(
+                linear_model.LogisticRegression(
+                    C=1e6, solver="lbfgs", max_iter=1000
+                )
             )
         else:
             raise ValueError("Model not known or not yet implemented.")
@@ -68,14 +71,11 @@ class ScikitVectorBacktester(object):
 
     def get_data(self):
         """Retrieves and prepares the data."""
-        from pathlib import Path
-
-        data_path = (
-            Path(__file__).resolve().parent / "data" / "pyalgo_eikon_eod_data.csv"
-        )
-        data_url = "http://hilpisch.com/pyalgo_eikon_eod_data.csv"
-        src = data_path if data_path.exists() else data_url
-        raw = pd.read_csv(src, index_col=0, parse_dates=True).dropna()
+        raw = pd.read_csv(
+            "http://hilpisch.com/pyalgo_eikon_eod_data.csv",
+            index_col=0,
+            parse_dates=True,
+        ).dropna()
         raw = pd.DataFrame(raw[self.symbol])
         raw = raw.loc[self.start : self.end]
         raw.rename(columns={self.symbol: "price"}, inplace=True)
@@ -100,15 +100,10 @@ class ScikitVectorBacktester(object):
     def fit_model(self, start, end):
         """Implements the fitting step."""
         self.prepare_features(start, end)
-        y = np.sign(self.data_subset["returns"])
-        X = self.data_subset[self.feature_columns]
-        # 本 notebook：拟合前去掉收益为 0 的样本，只在 ±1 上做二分类。
-        # 预测仍覆盖全部样本。线性回归分支保持书里的写法。
-        if self.model_type == "logistic":
-            mask = y != 0
-            X = X.loc[mask]
-            y = y.loc[mask]
-        self.model.fit(X, y)
+        self.model.fit(
+            self.data_subset[self.feature_columns],
+            np.sign(self.data_subset["returns"]),
+        )
 
     def run_strategy(self, start_in, end_in, start_out, end_out, lags=3):
         """Backtests the trading strategy."""
@@ -146,9 +141,7 @@ class ScikitVectorBacktester(object):
         if self.results is None:
             print("No results to plot yet. Run a strategy.")
         title = "%s | TC = %.4f" % (self.symbol, self.tc)
-        self.results[["creturns", "cstrategy"]].plot(
-            title=title, figsize=(12, 3), grid=True
-        )
+        self.results[["creturns", "cstrategy"]].plot(title=title, figsize=(10, 6))
 
 
 if __name__ == "__main__":
