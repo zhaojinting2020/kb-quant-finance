@@ -21,3 +21,6 @@ cache/
 .obsidian/plugins/obsidian-linter/default-misspellings.md
 .obsidian/themes/
 .smart-env/
+
+# Lightning / training artifacts
+**/lightning_logs/

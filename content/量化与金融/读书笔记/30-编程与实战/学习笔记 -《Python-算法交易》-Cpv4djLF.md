@@ -3,6 +3,8 @@ title: 《Python 算法交易》学习笔记
 url: https://my.feishu.cn/docx/Cpv4djLFwoWd2CxiXgsc4laSn2f
 quality: raw
 attachments:
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/Yves Hilpisch - Python for Algorithmic Trading.pdf
+    title: Yves Hilpisch - Python for Algorithmic Trading.pdf
   - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Reading Financial Data From Different Sources.ipynb
     title: Reading Financial Data From Different Sources.ipynb
   - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Working with Open Data Sources - Quandl.ipynb
@@ -39,6 +41,8 @@ fetch_source: feishu:cli
 fetched_at: 2026-08-08T03:38:14+00:00
 custom-width: 85
 ---
+
+原书 PDF：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/Yves Hilpisch - Python for Algorithmic Trading.pdf|Yves Hilpisch - Python for Algorithmic Trading]]
 
 # Introduction
 

@@ -10,7 +10,6 @@
 import numpy as np
 import pandas as pd
 from sklearn import linear_model
-from sklearn.multiclass import OneVsRestClassifier
 
 
 class ScikitVectorBacktester(object):
@@ -58,12 +57,10 @@ class ScikitVectorBacktester(object):
         if model == "regression":
             self.model = linear_model.LinearRegression()
         elif model == "logistic":
-            # 书里是 LogisticRegression(..., multi_class='ovr')。
-            # scikit-learn 1.9 删掉了这个参数，OneVsRestClassifier 是同一套一对多。
-            self.model = OneVsRestClassifier(
-                linear_model.LogisticRegression(
-                    C=1e6, solver="lbfgs", max_iter=1000
-                )
+            # 方向策略只训 ±1：平盘日没有方向信息，不建成第三类。
+            # C 取大、弱正则；max_iter 加大避免 lbfgs 未收敛警告。
+            self.model = linear_model.LogisticRegression(
+                C=1e7, solver="lbfgs", max_iter=1000
             )
         else:
             raise ValueError("Model not known or not yet implemented.")
@@ -100,9 +97,11 @@ class ScikitVectorBacktester(object):
     def fit_model(self, start, end):
         """Implements the fitting step."""
         self.prepare_features(start, end)
+        y = np.sign(self.data_subset["returns"])
+        mask = y != 0
         self.model.fit(
-            self.data_subset[self.feature_columns],
-            np.sign(self.data_subset["returns"]),
+            self.data_subset.loc[mask, self.feature_columns],
+            y[mask],
         )
 
     def run_strategy(self, start_in, end_in, start_out, end_out, lags=3):
@@ -141,7 +140,7 @@ class ScikitVectorBacktester(object):
         if self.results is None:
             print("No results to plot yet. Run a strategy.")
         title = "%s | TC = %.4f" % (self.symbol, self.tc)
-        self.results[["creturns", "cstrategy"]].plot(title=title, figsize=(10, 6))
+        self.results[["creturns", "cstrategy"]].plot(title=title, figsize=(12, 5))
 
 
 if __name__ == "__main__":

@@ -125,7 +125,7 @@ class LRVectorBacktester(object):
             print('No results to plot yet. Run a strategy.')
         title = '%s | TC = %.4f' % (self.symbol, self.tc)
         self.results[['creturns', 'cstrategy']].plot(title=title,
-                                                     figsize=(10, 6))
+                                                     figsize=(12, 5))
 
 
 if __name__ == '__main__':
