@@ -43,7 +43,7 @@ ip = InstrumentPrice()
 
 while True:
     ts = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
-    msg = '{} {} {:.2f}'.format(ts, ip.symbol, ip.simulate_value())
+    msg = '{} {} {:.2f}'.format(ip.symbol, ts, ip.simulate_value())
     print(msg)
     socket.send_string(msg)
     time.sleep(random.random() * 2)
